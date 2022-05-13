@@ -1,0 +1,487 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0pt;
+}
+div.Z-kladn--textový-r-meček {
+	border-style:solid;
+}
+p.MLP_citacni_str_rozdeleni {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_dopis_bez1radku {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:14pt;
+	margin-right:14pt;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_dopis_podpis_-I- {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:12pt;
+	margin-left:0;
+	margin-right:14pt;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_licence_obrazek {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:5pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6pt;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_licence_paragraf {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.MLP_licence_text {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_obrazky {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.318;
+	margin-bottom:12pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12pt;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_obsah {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:12pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12pt;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.MLP_text {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:14pt;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_text_bez1radku {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_text_bez1radku_-0-12- {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:12pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_text_bez1radku_-12-0- {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12pt;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.MLP_tiraz_autor_a_nazev {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.179;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.MLP_titulka_autor {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.111;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:18pt;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.MLP_titulka_nazev {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:2.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.077;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:120pt;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.MLP_uroven2_kapitola {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.222;
+	margin-bottom:36pt;
+	margin-left:0;
+	margin-right:0;
+	margin-top:18pt;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:always;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Normal {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.XMLP_obsah_0mm {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.208;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+span.Hyperlink {
+	color:#3953a4;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.MLP_licence_hypertext {
+	color:#283583;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:underline;
+	text-transform:none;
+}
+span.MLP_znak_kurziva_11b {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:normal;
+}
+p.ParaOverride-1 {
+	-epub-line-break:normal;
+}
+p.ParaOverride-2 {
+	-epub-line-break:normal;
+	page-break-after:always;
+}
+p.ParaOverride-3 {
+	margin-top:23pt;
+}
+p.ParaOverride-4 {
+	margin-bottom:28pt;
+}
+span.CharOverride-1 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-style:normal;
+	font-weight:normal;
+}
+span._idGenCharOverride-1 {
+	font-size:1em;
+}
+#_idContainer000, #_idContainer001 {
+	display:inline-block;
+	width:100.00%;
+}
+#_idContainer003 {
+	display:inline-block;
+	padding:82.95% 0% 0% 0%;
+	position:relative;
+	width:79.73%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	max-width:100%;
+}
+img._idGenObjectAttribute-2 {
+	width:25.42%;
+}
+img._idGenObjectAttribute-3 {
+	width:18.64%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0pt;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}

@@ -1,0 +1,745 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Let čarodějnice aneb Civilní dobrodružství",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Emil Hakl",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-20T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "let_carodejnice_001.md",
+            "xhtml": "let_carodejnice_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_002.md",
+            "xhtml": "let_carodejnice_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_003.md",
+            "xhtml": "let_carodejnice_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_004.md",
+            "xhtml": "let_carodejnice_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_005.md",
+            "xhtml": "let_carodejnice_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_006.md",
+            "xhtml": "let_carodejnice_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_007.md",
+            "xhtml": "let_carodejnice_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_008.md",
+            "xhtml": "let_carodejnice_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_009.md",
+            "xhtml": "let_carodejnice_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_010.md",
+            "xhtml": "let_carodejnice_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_011.md",
+            "xhtml": "let_carodejnice_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_012.md",
+            "xhtml": "let_carodejnice_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_013.md",
+            "xhtml": "let_carodejnice_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_014.md",
+            "xhtml": "let_carodejnice_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_015.md",
+            "xhtml": "let_carodejnice_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_016.md",
+            "xhtml": "let_carodejnice_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_017.md",
+            "xhtml": "let_carodejnice_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_018.md",
+            "xhtml": "let_carodejnice_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_019.md",
+            "xhtml": "let_carodejnice_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_020.md",
+            "xhtml": "let_carodejnice_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_021.md",
+            "xhtml": "let_carodejnice_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_022.md",
+            "xhtml": "let_carodejnice_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_023.md",
+            "xhtml": "let_carodejnice_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_024.md",
+            "xhtml": "let_carodejnice_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_025.md",
+            "xhtml": "let_carodejnice_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_026.md",
+            "xhtml": "let_carodejnice_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_027.md",
+            "xhtml": "let_carodejnice_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_028.md",
+            "xhtml": "let_carodejnice_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_029.md",
+            "xhtml": "let_carodejnice_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_030.md",
+            "xhtml": "let_carodejnice_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_031.md",
+            "xhtml": "let_carodejnice_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_032.md",
+            "xhtml": "let_carodejnice_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_033.md",
+            "xhtml": "let_carodejnice_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_034.md",
+            "xhtml": "let_carodejnice_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_035.md",
+            "xhtml": "let_carodejnice_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_036.md",
+            "xhtml": "let_carodejnice_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "let_carodejnice_037.md",
+            "xhtml": "let_carodejnice_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Let čarodějnice aneb Civilní dobrodružství",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Emil Hakl",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-20T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_001.md",
+        "xhtml": "let_carodejnice_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_002.md",
+        "xhtml": "let_carodejnice_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_003.md",
+        "xhtml": "let_carodejnice_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_004.md",
+        "xhtml": "let_carodejnice_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_005.md",
+        "xhtml": "let_carodejnice_005.xhtml"
+      },
+      {
+        "titleSuggest": "1\\. Mnohokrát slyšené",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_006.md",
+        "xhtml": "let_carodejnice_006.xhtml"
+      },
+      {
+        "titleSuggest": "2\\. Dejchej!",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_007.md",
+        "xhtml": "let_carodejnice_007.xhtml"
+      },
+      {
+        "titleSuggest": "3\\. V nitru Barakudy",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_008.md",
+        "xhtml": "let_carodejnice_008.xhtml"
+      },
+      {
+        "titleSuggest": "4\\. Kašel a dým",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_009.md",
+        "xhtml": "let_carodejnice_009.xhtml"
+      },
+      {
+        "titleSuggest": "5\\. Kouř a smích",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_010.md",
+        "xhtml": "let_carodejnice_010.xhtml"
+      },
+      {
+        "titleSuggest": "6\\. Záhada Blair Witch",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_011.md",
+        "xhtml": "let_carodejnice_011.xhtml"
+      },
+      {
+        "titleSuggest": "7\\. Co jsem viděl a slyšel ve sklepě",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_012.md",
+        "xhtml": "let_carodejnice_012.xhtml"
+      },
+      {
+        "titleSuggest": "8\\. Kouřící hora",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_013.md",
+        "xhtml": "let_carodejnice_013.xhtml"
+      },
+      {
+        "titleSuggest": "9\\. Mám tě, ty nacistickej špióne!",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_014.md",
+        "xhtml": "let_carodejnice_014.xhtml"
+      },
+      {
+        "titleSuggest": "10\\. Kafe a klid",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_015.md",
+        "xhtml": "let_carodejnice_015.xhtml"
+      },
+      {
+        "titleSuggest": "11\\. Kdo eště?",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_016.md",
+        "xhtml": "let_carodejnice_016.xhtml"
+      },
+      {
+        "titleSuggest": "12\\. Neklid",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_017.md",
+        "xhtml": "let_carodejnice_017.xhtml"
+      },
+      {
+        "titleSuggest": "13\\. Snad jenom ty boty",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_018.md",
+        "xhtml": "let_carodejnice_018.xhtml"
+      },
+      {
+        "titleSuggest": "14\\. Vylisováno jest",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_019.md",
+        "xhtml": "let_carodejnice_019.xhtml"
+      },
+      {
+        "titleSuggest": "15\\. Modelo",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_020.md",
+        "xhtml": "let_carodejnice_020.xhtml"
+      },
+      {
+        "titleSuggest": "16\\. Bon voajáž",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_021.md",
+        "xhtml": "let_carodejnice_021.xhtml"
+      },
+      {
+        "titleSuggest": "17\\. Slunce a vzduch",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_022.md",
+        "xhtml": "let_carodejnice_022.xhtml"
+      },
+      {
+        "titleSuggest": "18\\. To právě musíš",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_023.md",
+        "xhtml": "let_carodejnice_023.xhtml"
+      },
+      {
+        "titleSuggest": "19\\. Onačejší než v ráji",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_024.md",
+        "xhtml": "let_carodejnice_024.xhtml"
+      },
+      {
+        "titleSuggest": "20\\. Ve třetím patře",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_025.md",
+        "xhtml": "let_carodejnice_025.xhtml"
+      },
+      {
+        "titleSuggest": "21\\. Královna",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_026.md",
+        "xhtml": "let_carodejnice_026.xhtml"
+      },
+      {
+        "titleSuggest": "22\\. Vitulomonachus, politováníhodná zrůda ze Salamanky",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_027.md",
+        "xhtml": "let_carodejnice_027.xhtml"
+      },
+      {
+        "titleSuggest": "23\\. Jehly na vodách",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_028.md",
+        "xhtml": "let_carodejnice_028.xhtml"
+      },
+      {
+        "titleSuggest": "24\\. Tvrzení proti tvrzení",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_029.md",
+        "xhtml": "let_carodejnice_029.xhtml"
+      },
+      {
+        "titleSuggest": "25\\. Hysteron proteron",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_030.md",
+        "xhtml": "let_carodejnice_030.xhtml"
+      },
+      {
+        "titleSuggest": "26\\. Náměstí Míru",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_031.md",
+        "xhtml": "let_carodejnice_031.xhtml"
+      },
+      {
+        "titleSuggest": "27\\. Postupné zpomalování",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_032.md",
+        "xhtml": "let_carodejnice_032.xhtml"
+      },
+      {
+        "titleSuggest": "28\\. V hnízdě ptáka Noha",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_033.md",
+        "xhtml": "let_carodejnice_033.xhtml"
+      },
+      {
+        "titleSuggest": "29\\. Cesta do středu",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_034.md",
+        "xhtml": "let_carodejnice_034.xhtml"
+      },
+      {
+        "titleSuggest": "30\\. Postupné zrychlování",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_035.md",
+        "xhtml": "let_carodejnice_035.xhtml"
+      },
+      {
+        "titleSuggest": "Citované prameny a inspirační zdroje",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_036.md",
+        "xhtml": "let_carodejnice_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "let_carodejnice_037.md",
+        "xhtml": "let_carodejnice_037.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_let_carodejnice.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_11b",
+      "Normal",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi"
+    },
+    "generatedAt": 1652420851041
+  }
+}

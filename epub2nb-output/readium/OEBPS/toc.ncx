@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Let čarodějnice aneb Civilní dobrodružství</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1. Mnohokrát slyšené</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2. Dejchej!</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3. V nitru Barakudy</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>4. Kašel a dým</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>5. Kouř a smích</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>6. Záhada Blair Witch</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>7. Co jsem viděl a slyšel ve sklepě</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>8. Kouřící hora</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>9. Mám tě, ty nacistickej špióne!</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>10. Kafe a klid</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>11. Kdo eště?</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_016.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>12. Neklid</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_017.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>13. Snad jenom ty boty</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_018.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>14. Vylisováno jest</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_019.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>15. Modelo</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_020.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>16. Bon voajáž</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_021.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>17. Slunce a vzduch</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_022.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>18. To právě musíš</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_023.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>19. Onačejší než v ráji</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_024.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>20. Ve třetím patře</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_025.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>21. Královna</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_026.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>22. Vitulomonachus, politováníhodná zrůda ze Salamanky</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_027.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>23. Jehly na vodách</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_028.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>24. Tvrzení proti tvrzení</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_029.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>25. Hysteron proteron</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_030.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>26. Náměstí Míru</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_031.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>27. Postupné zpomalování</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_032.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>28. V hnízdě ptáka Noha</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_033.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>29. Cesta do středu</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_034.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>30. Postupné zrychlování</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_035.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Citované prameny a inspirační zdroje</text>
+      </navLabel>
+      <content src="Text/let_carodejnice_036.xhtml#_idParaDest-31"/>
+    </navPoint>
+  </navMap>
+</ncx>
