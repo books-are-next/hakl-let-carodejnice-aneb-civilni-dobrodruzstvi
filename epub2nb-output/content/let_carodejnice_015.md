@@ -3,8 +3,6 @@ title: "10\\. Kafe a\_klid"
 contentType: prose
 ---
 
-  
-
 A pak tu byla moje máma, která teď už všechno viděla výhradně rastrem překrásné minulosti. Celý život zařizovala a organizovala estrády v rozlehlém úředním baráku na Smíchově. Uvízl jsem v něm jako čtyřletý v páternosteru, možná mě jenom poslala umýt ruce. Trčel jsem sám v mezipatří ve spoře osvětlené kobce. V šachtě nade mnou využil jakýsi zaseknutý estrádní umělec pauzy k obveselení všech, kdo měli uši k slyšení. Řval děsivě nesrozumitelné vtipy, prskal a do toho zvláštně šílenecky hulákal, až mi z něj cvakaly zuby strachem. Kdoví, zda nešlo o samotného slunečního prince, o Jardu Štercla. Když si zážitek zpětně promítám, akusticky to odpovídalo víc než dobře.
 
 Od dvaadevadesátého, kdy vykopla svého posledního chlapa, zůstala sama. Byla doma a psala. Když už jí někdo stál za řeč, byl to Rudolf Cortéz, charakter, co se uměl nasrat a řvát, až se patro třáslo, Filipovský, Hlaváček s Krajíčkem, byli to Golden Kids, jakási Blagajka, Kamélie, Kája Zich, byl to Marián Varga s Leškem Semelkou, zlobilové, často též Gondolán, říkala mu Tondo a málokdy zapomněla zmínit, že je její kamarád. A byl, chodíval k nám v těch dávných dobách a jeho jezevčík běhal z pokoje do pokoje a měl na ptáku svítivě oranžový nástavec. Neměl jsem odvahu zeptat se přímo, co to znamená, a tak jsem aspoň zjišťoval, kdo byl ten pán, když odešel. „To je _bílej_ cikán,“ poučila mě ostražitě ztišeným hlasem, ačkoli jsme byli v bytě sami. Že je zpěvák, mi neřekla, to jsem se dozvěděl až z televize. Teď už se scházela jen s bývalými kolegyněmi, seděly a vzpomínaly na svoje _Bécánky_ a _Zděnky_ a nenápadně u toho nasávaly. Fotky na stole, jména, tváře, teplo od radiátoru, tyčinky a křupky.

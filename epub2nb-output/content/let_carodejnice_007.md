@@ -3,8 +3,6 @@ title: 2\. Dejchej!
 contentType: prose
 ---
 
-  
-
 Prostor bistra neobsahoval nic, co by mohlo fungovat jako důvod, proč se neobrátit a nejít jinam. My si však zvykli chodit sem, když už. Za pultem přecházela majitelka podniku, masivní blondýna s těžkým tygřím obličejem, o které se tvrdilo, že je hodně na chlapy a že občas přefikne nepozorného hosta přímo tam někde vzadu u mrazáku. Bar se jmenoval Barakuda. To byl možná ten důvod. Rádio hrálo. Barunka seděla v koutě a na ukazováku levé ruky měla flastr, ze kterého zuby vytahovala nit.
 
 „To je nefér,“ vyprskla vlákno.

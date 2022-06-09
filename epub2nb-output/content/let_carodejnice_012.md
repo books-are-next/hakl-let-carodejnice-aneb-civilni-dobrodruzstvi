@@ -3,8 +3,6 @@ title: "7\\. Co jsem viděl a\_slyšel ve sklepě"
 contentType: prose
 ---
 
-  
-
 Podobně jsem taky navštívil jednoho známého. Jmenoval se Arnošt a měl domek s houbou prolezlým krovem v zaprášeném městečku za Prahou, kde žil se svou stárnoucí ženou. Denně odtamtud dojížděl do ústavu v Krči, kde se věnoval výzkumu nižších živočichů. Krov byl prohnilý natolik, že se propadal, čehož si Arnošt všiml, až když dům zaplatil. Vyřešil to tak, že ho přestal brát na vědomí. Slovo _střecha_ bylo lepší před ním nevyslovovat. Přivítali mě, opřeli mi kolo v garáži o dřevěnou kozu a zavedli mě do kuchyně.
 
 „Tak co mi povíš?“ ptal se. Paní za jeho zády vzdychala a cinkala čajníkem.

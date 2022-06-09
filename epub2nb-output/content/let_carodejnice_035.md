@@ -3,8 +3,6 @@ title: 30\. Postupné zrychlování
 contentType: prose
 ---
 
-  
-
 Číslo, které jsem dostal na letišti, jsem jednoho dne vytočil. Dlouho to vyzvánělo někde v Arizoně, dlouho, než zachraptěl nezřetelný mužský hlas. Zeptal jsem se bez invence, zda tam je paní Irena.
 
 „Není,“ řekl. „A vy víte, kde je?“

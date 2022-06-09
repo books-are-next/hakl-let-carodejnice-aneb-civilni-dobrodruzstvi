@@ -3,8 +3,6 @@ title: 25\. Hysteron proteron
 contentType: prose
 ---
 
-  
-
 K snídani jsem snědl sedm banánů a jel jsem na blind k matce. Pozdravit, stručně poreferovat, dojít nakoupit. Mrknout se, jak je daleko s popisem svého života. Telefon mi nebrala, nejspíš měla pořád vypnuté vyzvánění.
 
 Zazvonil jsem krátce, dlouze, jednou, dvakrát, nic. Odemkl jsem si, když už jsem tam byl. V bytě mráz. Hned, jak jsem vešel, mi bylo všechno jasné. Bylo to ve vzduchu. Věděl jsem co, ale nevěděl jsem kde a jak. Napřed jsem prozkoumal umakartové jádro, koupelnu, záchod, kuchyni. Poté jsem nahlédl do pokoje. Uklizeno, otevřená okna. Rostliny plazily z kořenáčů suché listy na koberec, z popínavek zbyla změť vyschlých nitek, pokrývající stěny i nábytek. V dalším pokoji to samé, jedině tlustice dosud bojovaly, jinak suchopár. Třeba se větrá proto, že si vyjely se ségrou na Seychely, říkal jsem si. Někdo slíbil, že přijde zalít, a nepřišel, klasika. Mám sestru, ale nemám o ní dvakrát co říct, vzala si chlápka z Innsbrucku, mají starosti, pracují a nic jim nechybí, tvrdí každoroční vánoční esemeska. Co by najednou dělaly na Seychelách, když se tolik let neviděly. Rozum zkoušel jako obvykle strkat hlavu do písku, nechtělo se mu být u toho. Moje jistota však nezakolísala. Zbývala komora a ložnice. Pootevřel jsem prosklené dveře. Postel ustlaná, opatřená přehozem. Na té jsem spával, když jsem chodil na základku, četl jsem si pod dekou při baterce. Přesunul jsem pozornost k druhému gauči. A tam ležela. Na peřině měla otevřenou knihu. Viděl jsem ruku, tou tu knihu držela. Palec jsem viděl. Na hlavě měla šátek.

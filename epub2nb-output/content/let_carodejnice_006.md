@@ -3,8 +3,6 @@ title: 1\. Mnohokrát slyšené
 contentType: prose
 ---
 
-  
-
 Držel jsem se tyče, vyhlížel ven a registroval, jak mě postupně naplňuje bezdůvodné dopolední štěstí. Ve vzduchu nebylo nic mimořádného, snad jen lidi v tramvaji byli cítit víc než obvykle. Nějak to už začínalo jít nade všechny meze, vedra sužovala město druhý měsíc. Přenesl jsem váhu na levou nohu, v pravé mi pořád škubalo, zánět, antibiotika. Mohl jsem zůstat doma tři neděle. Jenomže mi už po týdnu volala šéfka, že mě nutně potřebuje. Zrušil jsem tedy bloumání a jel jsem. Fajfka mě mezi řadovými přepravovanými brně­la hned o poznání míň. Už jsem na ni neměl to pravé soustředění. Tramvaj se prokymácela dvojitou zatáčkou a vplazila se uprostřed nadbytečného přibrzďování a odbrzďování na most. Pár lidí se přetočilo kolem tyče. V kapse mi zaťukal telefon.
 
 „Ano,“ řekl jsem.

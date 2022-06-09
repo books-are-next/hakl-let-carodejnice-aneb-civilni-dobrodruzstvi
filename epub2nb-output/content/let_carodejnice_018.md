@@ -3,8 +3,6 @@ title: 13\. Snad jenom ty boty
 contentType: prose
 ---
 
-  
-
 Sasové, kteří nám nadšéfovali, se možná v tom svém postavení malinko nudili. Měli sklon si pro nás vymýšlet nadstandardní akce, o nichž byli přesvědčeni, že nás potěší. Například jsem od nich obdržel po síti pokyn, abych laskavě zorganizoval podzimní párty pro celé vydavatelství. Jejich vize byla, že my z firmy budeme v bílém, abychom fungovali jako takoví andělé, pohybující se mezi běžnými hosty. Že k tomu bude hrát DJ a že tam musí být hodně V. I. P.
 
 Tady se Denisa, šéfka, projevila jako formát.

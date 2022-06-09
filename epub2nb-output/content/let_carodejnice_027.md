@@ -3,8 +3,6 @@ title: 22\. Vitulomonachus, politováníhodná zrůda ze Salamanky
 contentType: prose
 ---
 
-  
-
 Seděli jsme proti sobě na balkóně v plátěných lehátkách. Stará kouřila cigáro ze špičky a kašlala, já měl na hlavě čistě ze švandy pomačkaný panamák, který jsem našel v chodbě na věšáku. V letících kumulech stál helios a světlo jím vyvržené se zapichovalo do lisabonských střech zhruba po osmi minutách letu. Připadal jsem si jako v nepoužité sekvenci ze _Smrti v Benátkách,_ díky čemuž mi strašila v mozku samá neupřímná, amatérsky dvojsečná témata. Kupříkladu jsem se pustil do úvah o soucitu a logicky dospěl k výroku, že soucit je ta nejhorší lež ze všech.
 
 „Zjednodušujete,“ opáčila suše. „A jste naivní, jako všichni dneska.“

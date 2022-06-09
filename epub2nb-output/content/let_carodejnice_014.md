@@ -3,8 +3,6 @@ title: 9\. Mám tě, ty nacistickej špióne!
 contentType: prose
 ---
 
-  
-
 Když potom přiletěla šéfka, ať fofrem střelím z hlavy téma, řekl jsem: „Boreč, kouřící hora, tip na výlet.“
 
 „Skvělý,“ volala. „Minimálně dvanáct tisíc znaků s mezerama a do boxíku anketa _Proč jezdím na Boreč!_ Bém je turista, ten ti vodpoví, kdo eště, na to přijdeš sám. Pošli tam Fafejtu, ať jsou ve čtvrtek fotky!“

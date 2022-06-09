@@ -3,8 +3,6 @@ title: 21\. Královna
 contentType: prose
 ---
 
-  
-
 Doma seděl jen úpravný, mírně zapáchající stařec a já. Stará s mladou pravidelně mizely za svými cíli. První do druhé nejspíš hustila minulost, druhá do první přítomnost, k tomu pohár. Nevadilo mi to, měl jsem uspokojivý program. Seděli jsme s Leventem v hale a pozorovali se. První krok udělal on – jednoho dne se mi zadíval do očí a nechtělo se mu uhnout. Pohled jsem opětoval. Po několika­minutovém zírání se cosi prolomilo. Začal se mezi námi odvíjet tichý ubožácký příběh na pokračování. On v křesle, já v křesle, mezi námi příborník. Hleděl na mě, jako bych byl součást nábytku. Náhle měl oči jako koza. Jako zmije gabunská. Pak měl zrak starého, rakovinou prolezlého karbaníka. Hleděl na mě očima Freddieho Jonese z _Duny._ Pak nechal vystoupit na povrch lebku, přes kterou byla jen formálně přetažena tenká kožní blána. Šlo o to, kdo koho víc vyděsí. Nejen o to. Byl to test, jen jsme se nemohli dohodnout, kdo koho testuje. Když bylo nejhůř, použil jsem svou starou zbraň, pohrdavý pohled, který jsem kdysi upíral z kojeneckých peřin na dospělé, když se nedívali. Ten dokázal Leventeho pěkně znejistět, ale musel jsem to sám držet na uzdě. Oživovat z kontextu vytržené komponenty dětství není dvakrát bezpečné. Slavný příklad – jak dopadl Nietzsche, když se rozhodl obejmout koníčka-bratra, zřítil se zpátky do dítěte a zmizel v něm.
 
 Když klepl třemi prsty o hranu stolu, znamenalo to žízeň – pít. Snosil jsem vše, co bylo v dosahu. Džus se červenal, ve vodě skotačilo slunce, mošt byl v plechovce. Vypil postupně všechno, pak mi zahákl prst za košili a přitáhl si mě k sobě. Ukázal na zarámovaný snímek na příborníku, byl na něm on a teta, fotka z časů.

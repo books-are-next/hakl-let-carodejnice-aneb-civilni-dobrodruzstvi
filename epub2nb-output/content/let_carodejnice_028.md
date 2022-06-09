@@ -3,8 +3,6 @@ title: 23\. Jehly na vodách
 contentType: prose
 ---
 
-  
-
 Levente se hrbil v křesle a já mu dělal spolu s blekotající televizí společnost. Upíjel jsem víno, pozoroval z okna náměstí. Probíhající situace byly prosté jako práce vypínače. Na terásce sedávala na židli vzpřímená žena v plachetce a hladila kocoura, buď tam byla, nebo ne, většinou ano, jedenkrát byl na židli pouze kocour. Město vydávalo zvuk, jako když o sebe drhnou plechy.
 
 „Jo,“ pronesl jednoho dne dědek a ťukl malíkem o lenoch, „gilotina se nikdy nezastaví. Když ale dostaneš chuť na cibuli, jaká pomoc, musíš si dát cibuli!“

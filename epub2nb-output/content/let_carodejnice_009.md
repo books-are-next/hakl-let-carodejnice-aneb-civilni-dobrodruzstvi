@@ -3,8 +3,6 @@ title: "4\\. Kašel a\_dým"
 contentType: prose
 ---
 
-  
-
 První den, kdy jsem to nevydržel, bylo úterý. Vešel jsem v devět patnáct ráno hlavním vchodem do obchoďáku, vyjel až na horní galerii a zaujal postavení za umělým keřem. Zpoza něj jsem se dopodrobna obeznámil se situací. Před potravinami se hemžilo telefonující úřednictvo, zevlouni s gyrosem, nakupující samice, mládež na čumendě. Všichni se navzájem hlídali a pozorovali. _Akce, akce, akce,_ zvaly cedule do nitra bludiště. Mezi sloupy postávalo několik křápků v oblecích se šnekem vysílačky v uchu. Kyselá křeč strachu mi prohrábla střeva a vydatně jsem se orosil.
 
 Ve středu už jsem byl nicméně schopen projít přízemím. Ve čtvrtek jsem to zopakoval a od pátku jsem si zkracoval cestu do práce jako dřív. Zase jsem okukoval svítítka, pískátka, hračičky, nepokoje. Mezi egyptskými figurami přibyl Amemet s krokodýlí hlavou. U kasy zívala ničemná lodyha v bokovkách. Nějak jsem přestával mít ty krámy rád. Diody bodaly do sítnice, bižuterie se mrtvě leskla. Na dně haly stála řada oválných stánků, připomínajících létající kabinu z Lynchovy _Duny._ Za tím, co byl nejblíže místu, kde Chorche padl, jsem občas postál. Potřeboval jsem se dozvědět, jestli tam někde náhodou dál, živ a zdráv, nebuzeruje lidi. Divná věc, říkal jsem si, jak rychle šel k zemi. Přece to nemůže vitamíny a proteiny nabušený organizmus tak lehce vzdát. Čekal bych cokoliv, jen to ne, říkal jsem si a listoval v knihkupectví u vchodu atlasem Poznej lidské tělo. V oblastech, připadajících v úvahu, se nacházely samé důležité orgány.

@@ -3,8 +3,6 @@ title: 12\. Neklid
 contentType: prose
 ---
 
-  
-
 Mnozí si do toho nenechali mluvit a řekli jen, co chtěli. Jiní na sebe pověděli první poslední, ale při autorizaci se jim to rozleželo a posílali na poslední chvíli traktáty plné maniakálně přezdobených všeobecných moralizmů. Takže se stať musela komplet rozebrat a znovu poskládat, zatímco grafici blili žaludeční šťávy, jelikož to mělo jít před pěti minutami do tisku. Nejčastěji však šlo o předem ztracené klání s chladně nastavenými roboty, používajícími řeč, která při prvním pokusu převést ji do psané podoby tála a rozpouštěla se v škaredě páchnoucí louži. Bývalo mi úzko z té jejich snahy být za každou cenu fajn, zatlouct ty tři vily, manželku v péči psychiatra. Mohlo mi to být fuk, i nejčtenější deníky v republice už vydávaly jen bezmocný lomoz a gramatické a stylistické a faktické chyby dávno splynuly v kalný inflační veletok.
 
 Po práci jsem se zpravidla utěšoval návštěvou Bontonlandu a listoval dévédéčky. U východů vtahovali pupek členové ostrahy a byli povinni odcházejícím sdělit: „Děkujeme, na shledanou,“ pakliže detektor nepískal. Chorche, říkal jsem si, ten by se takhle neponižoval. A už jsem strkal do mechaniky jako první _Mechanický pomeranč._ Po zhlédnutí nejvýše čtyř kusů jsem skočil do kanafasu, spolkl bobuli, zesnul, narodil se, vstal, oklepal se a opět uháněl. Stal se ze mě ideální zaměstnanec, nezastírající, že si potřebuje vydělat na denní porci předražené srandy. Dozajista šlo filmy odněkud stahovat, jenže nebyl čas.

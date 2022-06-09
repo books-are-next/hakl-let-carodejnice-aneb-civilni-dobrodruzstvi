@@ -3,8 +3,6 @@ title: "3\\. V\_nitru Barakudy"
 contentType: prose
 ---
 
-  
-
 Často jsme do té Barakudy ani jít nechtěli. Doma jsme si však začali brzy překážet v rozletu, když si chtěl jeden povídat, druhý měl chuť si číst, a naopak. A tak jsme večer co večer končili v baru, kde to bylo rázem nějak příznivější. Na vratkých plastových židlích, s břichem vraženým do stolu, s hranou police pod lopatkou, s Evropou 2 v týle.
 
 „Jakej je teda tvuj oblíbenej žánr nebo režisér?“ udržovala Barun­ka debatu, kterou jsme si přinesli z domova.
