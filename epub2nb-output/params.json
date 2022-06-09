@@ -17,8 +17,8 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "brBefore": ".+12.0\n.+12.12\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
@@ -742,6 +742,6 @@
       "user": "books-are-next",
       "repo": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi"
     },
-    "generatedAt": 1654774413724
+    "generatedAt": 1654779534552
   }
 }
