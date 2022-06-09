@@ -3,8 +3,6 @@ title: 24\. Tvrzení proti tvrzení
 contentType: prose
 ---
 
-  
-
 V pražském vzduchu dlela povědomá pachová stopa – jako když se z mrazáku vytáhne léta zapomenutý polárkáč. Letohrádek Hvězda vyčníval z jiskřící srsti obory. Kolem chodníků se kupily hromady zmrazků. Jediný, kdo se radoval, byly straky, ty se něco nashazovaly sněhu ze soch, z parapetů. Z letiště jsem jel autobusem na Kulaťák, pak metrem. Ve vagónu dunělo ticho. Všichni psali krátké textové zprávy. Doma v předsíni deštníky, šály, koberec šejdrem, na skříni zablácený velocipéd. Na stole talíř s na kost vyschlými pomeranči. Světlo svítilo, voda tekla, plyn syčel, peníze tedy na účtu byly. Telefon zvonil, zvedl jsem ho.
 
 „Tady Erika, jsem na procházce a napadlo mě, že jsem tě už dlouho neslyšela. Jak se máš?“

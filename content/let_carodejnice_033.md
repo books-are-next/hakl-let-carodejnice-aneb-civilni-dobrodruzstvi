@@ -3,8 +3,6 @@ title: "28\\. V\_hnízdě ptáka Noha"
 contentType: prose
 ---
 
-  
-
 Navršili jsme pár povšechných sentencí. Opatrně jsme přidávali lehká dřívka, aby se to vespod nehnulo. Co děláš? Zašívám kalhoty. Co je to za blbost? Sed jsem na hřebík. A co tvoje střecha? Hnije, co by dělala.
 
 „No a co teda?“ přešel k tématu, které jsem měl sám tak trochu na mysli. „Nezkusíme zas někdy botanizovat?“

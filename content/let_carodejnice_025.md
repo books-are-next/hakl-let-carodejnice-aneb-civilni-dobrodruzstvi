@@ -3,8 +3,6 @@ title: 20\. Ve třetím patře
 contentType: prose
 ---
 
-  
-
 Glun, glun, zacinkal zvonek, teta vpustila do předsíně holohlavého ušatého muže v béžovém plášti až na paty, od oběda už čtvrtého prosebníka, a neprodleně ho šíbovala do salónu. Salón říkala pokoji, kde provozovala živnost. Hrabala se v arkánech, zpytovala saturnské pláně, čachrovala s magnetizmem, cosi takového. Po jisté době vyprovodila muže ke dveřím, prošla kuchyní, postavila vodu, opřela se o rám, máchla rukou a řekla: „Zdají se mu sny o umírání a nechce pochopit, že ty jak se začnou zdát, už nepřestanou. Jsou to holt křehcí hoši. Co vy tu vyvádíte?“
 
 „Díváme se na film o Maďarech,“ řekla Iris. „Pojď, to se tě taky týká.“

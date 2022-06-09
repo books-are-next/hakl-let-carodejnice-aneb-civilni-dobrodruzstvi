@@ -3,8 +3,6 @@ title: 6\. Záhada Blair Witch
 contentType: prose
 ---
 
-  
-
 Totiž, hlavní kouzlo nespočívalo v těch mých zelených jízdách, ty jenom něco otevřely. Vrátil jsem se někam, kde jsem spoustu let nebyl. Do vlastní hlavy, dalo by se říct.
 
 Sotva jsem vkročil do redakce, holky se rozjektaly nadšením. Protočily se bláznivě na seslích, protřepaly vlasy. Chtěly, abych neprodleně zahájil slovní produkci. Co mi zbývalo, vymýšlel jsem si, stříhal a slepoval příběhy svých známých, předělával k nepoznání vlastní sny a klipy z YouTube. Nepřiměřený elán jsem dával i do práce jako takové, titulky a úvodníky jen hýřily. Editoval jsem, vyráběl čurynu, žral, hltal bijáky, všechno bylo málo, tak jsem si k tomu přikoupil kolo, normální bicykl. Vtíravá móda, šlapat, jistě, vyhulákaná, mrzká, jistě. Kolo mi prodával pan Šobíšek v Nuslích, měl předloktí jako ukroucená z konopných špagátů a odevzdaný pohled. Smyslem jeho života bylo svírat řídítka, to z něj bylo cítit, co žena a děti, lepší nevědět. „V kopci nestoupejte plnou vahou na šlapky, protože tak dochází k enormnímu opotřebení řetězu,“ nabádal mě. „Dobře,“ odpověděl jsem, na nic lepšího jsem nepřišel.

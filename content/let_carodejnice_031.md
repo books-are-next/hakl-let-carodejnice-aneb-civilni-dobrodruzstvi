@@ -3,8 +3,6 @@ title: 26\. Náměstí Míru
 contentType: prose
 ---
 
-  
-
 Opíral jsem se o litinový sloupek před kostelem a na někoho jsem čekal. Svatá Ludmila se leskla jako od oleje, od Strašnic se sem valila černá bouřka.
 
 Zpoza okrasného keře náhle vystoupila Barunka. Měla měňavé petrolejové šaty, k tomu debilní lodičky s kramflekem. Našlapovala, jako by kráčela po kyselině. Trochu až jako tančila, kdoví co jí strašilo v kouli. Mířila ke mně, minula mě. Figuru měla jako lusk a svetřík za ní vlál. K aortě mi sáhla neviditelná ruka minulosti. Jen běž, bláznivá, bručel jsem za ní polohlasem, pochoduj. Co bych ti teď najednou vykládal. Pak o zem pleskl první nápor deště a já zamířil ke vchodu do metra, ve kterém před okamžikem zmizela. Co jsem to za člověka, vidím známou tvář a dělám, že tu nejsem. K metru jsem ale nedoběhl. Zastavila mě voda. Bylo to, jako když se na město vylije jezero. Po dláždění se hrnul souvislý hnědý proud. Brodil jsem se v něm po kotníky a mířil k lidmi narvané zastřešené zastávce. Zčistajasna vše ozářilo nepřirozeně intenzivní světlo. Ucítil jsem v chodidlech kobylí kopanec. Ochromující škubnutí. Poté bylo zase vše normální. Stáli jsme v průtrži, my obyvatelé, a čuměli na sebe. Byli jsme vespolek překvapeni, že by to mohlo být až tak jednoduché. Smrt shůry, jak je psáno na přídi přistávající helikoptéry v Coppolově _Apokalypse,_ zhruba v pětadvacáté minutě a dvacáté vteřině.

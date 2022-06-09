@@ -3,8 +3,6 @@ title: 14\. Vylisováno jest
 contentType: prose
 ---
 
-  
-
 Voda kapala z větví, razila si cestu skrz nacucané vrstvy kořínků a jehličí a brala s sebou listí a mrtvý hmyz. Čůrky se slučovaly do stružek a v potůčcích bystře plynuly do údolí, kde se vlévaly do potoků. Díky tomu hrozilo každoroční zaplavení návsi. Ve smrčinách se držela těžká vůně hřibů, ale v plesnivých muldách rašily jen pavučinami obalené prašivky. Stoupali jsme vzhůru a zapadali v mokrých botách do struh a výmolů. Minuli jsme rozbořenou vodní elektrárnu. Zpod okraje lesa nad námi vykukovala řada omše­lých pohraničních pevnůstek, ne nepodobných lidským lebkám. Barunka soustředěně šlukovala chesterfieldku.
 
 „Máš to s sebou a vezmeš mě tam?“ zeptala se.
