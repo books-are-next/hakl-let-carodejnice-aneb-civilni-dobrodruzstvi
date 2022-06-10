@@ -3,6 +3,8 @@ title: 16\. Bon voajáž
 contentType: prose
 ---
 
+<section>
+
 A tak jsem uvízl s prstem v nose na balkóně, podobně jako onen neholený nostalgik z Wendersovy demonstrace tichého vzdělaného evropanství. Na rozdíl od něho jsem měl nohy v cajku, začal jsem se tedy procházet. Špacíroval jsem, šlapal, loudal se, posedával, nastupoval, opíral se, vyskakoval, zdravil, koktal a šel zase dál. Zíral jsem a všechno si ukládal do paměti, jako kdyby mě to snad mohlo zachránit. A taky že mohlo, takováhle jinakost. Stižen běsem popocházení jsem míjel výlohy krámků, zavalené do výše člověka šnekovými převody, pružinami, řetízky, kolečkovými zámky, ozubenými koly, plechovými nosorožci, slonovinovými střenkami od kdovíčeho a kovanými nákončími kdoví od čeho, hotové hodinářské sluje. Míjel jsem obchody s výklady zaplněnými bledými koleny, růžovými srdci, nachovými játry, namodralými ňadry, plícemi, jazyky, čelistmi, pannami, krucifixy, maketami žaludku, vše z vosku. Zakoupit a zanechat v kostele na vyhrazeném místě, aby nebylo pochyb, co je předmětem prosby. Konečně jsem viděl, v čem tkví ona chrupavčitá úpornost katolicizmu. V názornosti. Ulicemi táhly uhrančivé kurvy s napruženými prsy, útočné parádnice, způsobující lehkou mdlobu už pouhým pohledem, a bez okolků chytaly chodce za rozkrok. Neskutečně pyšné černošky dělaly dlouhé pavoučí kroky a držely se ve stínu. Čtyřzubá baba nesla na hlavě stoh pruhovaných slamníků. Mezi kavárenskými hnízdy se proplétali oškliví cesťáci s vyrážkou, poskakující s cedulkou: _I_ _have SIDA_ = _AIDS__._ U stolků posedávali plešatí úředníci v kravatách a srkali porto. Afričané v kožených bundách si vyměňovali pevně ovázané balíčky, cenili zuby a štěkali. A všude Bělorusové s jednotnými žaludovitými hlavičkami. A všude beznosí žabáci s napuchlými pysky, vlekoucí se životem v saku po obrovi, co měl slabost pro zlaté knoflíky. Obecně bylo vidět dost lidí, kterým scházel nějaký kousek k úplnosti. A všude dokonalé, kompletní ženské. Nic neodpovídalo faktu, že je po sezóně. Respektive bych raději nechtěl vidět, jak ta sezóna vypadá.
 
 Za loket mě uchopil jednoruký cikán v buřince. „_Ma_\-_ro-ku_,“ zašuměl bezzubými ústy. Zavrtěl jsem hlavou. „Dneska nechcete, zítra chtít budete,“ řekl a zběhle mi upustil vzorek v alobalu do kapsy.
@@ -16,6 +18,10 @@ Občas jsem místo pěší túry podráždil síť v cyber café, projel jsem f
 Pod okny se dmul záliv, bičovaný studenými lijáky, galerie však byla naplněna stálostí a klidem. Koupil jsem si dva svetry a dvě sady trenýrek s potiskem frází _Jsem muž_ v deseti jazycích. A ucpávky do uší proti popelářům. Když jsem byl v lékárně kvůli ucpávkám, žádal jsem o něco na žaludek, magistra nevěděla, já listoval. Trávení zlepšit. Ne moc, jen poněkud. Dala mi pilulky _BRUTUTU forte._ Spolkl jsem dvě, žádná změna.
 
 Ač byl nejvyšší čas odjet, neodjel jsem. Naopak, naučil jsem se vyslovovat základní fráze tak, aby jim bylo přibližně rozuměno. Copak asi moje máma, říkal jsem si, zdalipak ťuká. Několikrát jsem jí zkusil zavolat, ale nebrala to. Zvykla si vypínat na pevné lince zvonění, aby měla pokoj.
+
+</section>
+
+<section>
 
 24. prosince bylo v Lisabonu polojasno, převládající vítr od západu, teplota 13,5 stupně, rosný bod devět, tlak 1026 hPa, relativní vlhkost vzduchu 80,7 procenta. Vleže na posteli jsem namačkal číslo. „Tak co,“ řekl jsem, „máš už hotový rumový koule?“
 
@@ -94,3 +100,5 @@ Ty, protože jsem myslel, protože, protože snad my dva, chtěl jsem říct. Al
 „No tak jo, bon voajáž.“
 
 Sedl jsem do vlaku mířícího na jih. Venku ubíhaly kopce, otevírala se a zavírala údolí. Co ti na tom vadí, ptal jsem se, co tě tak vytáčí? Může tě vzít ďas, že tě použila, zatímco sis byl jist, že tě zbožňuje. Je to furt dokola. Sbohem, náno. Smázl jsem její číslo v seznamu, aby mě to nepokoušelo. Stejně nebyl signál. Raněné kamarádství bylo obecně na dně všech mých vztahů. Z dálky mě vítaly obrovské vlny, rozbíjející se o skaliska. Vystoupil jsem ve městě Lagos, přespal v privátu za nádražím. Majitelku zajímalo, zda jsem katolík, ne odkud, jenom zda. Odtamtud jsem pak logicky pokračoval až na špici světadílu. A tam jsem taky došel. Stál jsem na útesu, dole řval Atlantik, skaliska se tyčila. A to bylo všechno.
+
+</section>

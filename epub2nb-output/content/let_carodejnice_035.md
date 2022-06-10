@@ -3,6 +3,8 @@ title: 30\. Postupné zrychlování
 contentType: prose
 ---
 
+<section>
+
 Číslo, které jsem dostal na letišti, jsem jednoho dne vytočil. Dlouho to vyzvánělo někde v Arizoně, dlouho, než zachraptěl nezřetelný mužský hlas. Zeptal jsem se bez invence, zda tam je paní Irena.
 
 „Není,“ řekl. „A vy víte, kde je?“
@@ -51,6 +53,10 @@ Začínal jsem chápat zápal Barunčina bývalého pro podobné žánry. Začal
 
 Prodíral jsem se blednoucími margináliemi a tušil další blížící se pevninu. Těšil jsem se, až se dohrabu ke _Zbytečné krutosti,_ k _Zuřícímu býkovi._ Pomlky, tetelící se vzduch, lupení u potoka. Tichounký vizuální bigbít. _Kikudžiró, Scény u moře._ Čím míň děje, tím líp. Jelikož kvůli nějakému ději jsem u toho osm až dvanáct hodin denně rozhodně neseděl. Děj je záminka, vedlejší schéma. A kvůli nějakým toporně vytvořeným monstrům už vůbec ne, jakkoliv třeba to v Cormanově _Creature from the Haunted Sea_ není zlé. Mně šlo jen o to, udržet se chvíli v centru záření, v plameni vysoko šlehající milosti. Dospět, až přijde čas, s partou zmáchaných pionýrů z _Cesty do pravěku_ k závěru pouti. K prožraným kulisám, k sádrovému břehu. Kde to ovšem nekončí, vzadu jsou bedny s nářadím, štengry, monitory. Lesy a louky. Praská tam bouřka a šumí patetický liják, bičující hřbety Tarkovského koní. Otec-déšť, bažina-matka, o mlze hanba mluvit.
 
+</section>
+
+<section>
+
 Pár dní nato mi zavolali z nějakého měsíčníku, jestli bych nebyl od té lásky a nezkusil k nim nastoupit. Oholil jsem se, vystříhal chlupy v nose, střihl se do sliznice, vypral kalhoty, vyčistil boty a jel jsem se ve schnoucích gatích představit. Seděl jsem v místnosti s nadšeným, rozesmátě vycukaným redakčním šéfem. Slíbili jsme si, že to spolu zkusíme. Povinná krize byla za mnou.
 
 Nový šéf se s tím nemazal a rovnou mě představil všem přítomným. „Novej píšící šéfredaktor!“ hlaholil.
@@ -78,3 +84,5 @@ Vypadl jsem a zamířil přes ulici, přičemž mě málem srazila bez houkačk
 „Poď už, musíme jet!“ bafla na mě mladice s divně až u čela ustři­ženou ofinou. „Ježiš, pardon,“ napravila omyl a přesunula se k vytáhlému kapucínovi, který metr ode mě tichounce blouznil do telefonu. „Poď už, musíme jet,“ vyštěkla mu do tváře s neztenčeným nasazením.
 
 Bouračka za křižovatkou se mezitím rozpletla a rozuzlila. Ti, co to odnesli, byli odvezeni, ostatní odjeli. Přihučela našlapaná tramvaj, já nastoupil, postoupil a cvakl si, chytl jsem se tyče a všechno se pohnulo. Na chodnících postávalo tolik nevratně utahaných, vyšisovaných lidí, že to nešlo nevidět. Lidí, které už nečeká žádná budoucnost, protože se nechali odkráglovat vlastními nadějemi. Protože dopustili, aby jim mediální buchar vymlátil z makovice i poslední vzpomínku na to, jaké to je, když moucha leze po skle, z kafe se kouří a člověk nikam nemusí. Co je mediální buchar, definuj. To je ten šmírák v každém z nás. Jo, jo, povzdechl jsem si, jo, jo, áchjo. A pak už jsem jen vyhlížel ven z vozu a registroval, jak mě pozvolna naplňuje bezdůvodné dopolední štěstí.
+
+</section>

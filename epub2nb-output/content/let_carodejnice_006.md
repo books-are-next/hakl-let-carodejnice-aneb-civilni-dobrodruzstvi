@@ -3,6 +3,8 @@ title: 1\. Mnohokrát slyšené
 contentType: prose
 ---
 
+<section>
+
 Držel jsem se tyče, vyhlížel ven a registroval, jak mě postupně naplňuje bezdůvodné dopolední štěstí. Ve vzduchu nebylo nic mimořádného, snad jen lidi v tramvaji byli cítit víc než obvykle. Nějak to už začínalo jít nade všechny meze, vedra sužovala město druhý měsíc. Přenesl jsem váhu na levou nohu, v pravé mi pořád škubalo, zánět, antibiotika. Mohl jsem zůstat doma tři neděle. Jenomže mi už po týdnu volala šéfka, že mě nutně potřebuje. Zrušil jsem tedy bloumání a jel jsem. Fajfka mě mezi řadovými přepravovanými brně­la hned o poznání míň. Už jsem na ni neměl to pravé soustředění. Tramvaj se prokymácela dvojitou zatáčkou a vplazila se uprostřed nadbytečného přibrzďování a odbrzďování na most. Pár lidí se přetočilo kolem tyče. V kapse mi zaťukal telefon.
 
 „Ano,“ řekl jsem.
@@ -56,6 +58,10 @@ Muž otevřel vitrínu, dal mi nůž na chvíli podržet a přesunul se k pokl
 „Nevadí,“ řekl jsem, zaplatil požadovanou částku, strčil kudlu do tašky a pokračoval.
 
 Co je to za úvahu, kupuješ si nůž, tak se neřízni, odfrkával jsem u semaforu mezi obchoďákem a nemocnicí. Naproti stojícím mohlo připadat, že si zpívám. Nestál jsem jim ovšem za pohled, Anděl je od rána do noci různých zpěváčků plný.
+
+</section>
+
+<section>
 
 Drtinova ulice stála uprostřed zeleně, tajuplná a rovná jako lyže, a mírně stoupala k chundelatému hrbu Petřína. Akáty vzdorovaly dusnu s nehybnými listy. Celková nehybnost byla stvrzena čerstvě položeným žhnoucím asfaltem. V tichu drnčely sbíječky, datlové velkoměsta, a k tomu zněla zvonkohra lešenářských trubek, podporovaná bezpočtem kladívek a rozbrušovaček. Minul jsem vydavatelství Cosmopolitanů a Harper’s Bazaarů, kde jsem kdysi vydržel v pracovním poměru přesně čtyři dny. Kladný dojem z Drtinovy jsem si tím však zkazit nenechal, měla do sebe takhle v létě cosi balkánského.
 
@@ -157,6 +163,10 @@ Dojedl jsem a vrátil se do redakce.
 
 „Já to slyšela,“ řekla a zavěsila.
 
+</section>
+
+<section>
+
 Ve čtvrt na sedm jsem se odpojil od sítě, hodil do truhly hrst virů a sešel po schodech. Jít po schodech, milá starosvětská zábava. Hold zmizelým časům. Když jsem procházel obchoďákem, dostal jsem chuť na šunku, na salát, na něco. Vyprostil jsem nákupní vůz a vtlačil jej do chrámu potravin. Třicátníci nakládali u vidiny večerní švandy grilovací klobásky, starci bagrovali točeňák, skupina sektářů se probírala předraženými drobky prošlých gorgonzol. Ženy tlačily přetékající koše. Z Ďáblic a z Řep, z dalekých hnízdišť se po nich už už natahovaly tisíceré zmlsané zobáčky. Vozy si vjížděly do cesty a s malátnou neodvratností se srážely. Přiložil jsem k uchu sluchátko.
 
 „Budu stručná,“ hlásila. „Právě jsem roztřískala tu toyotu, co mi dal fotr velkoryse k užívání, poněvač sám si koupil bavora. Což vod něj bylo velký gesto smíření, jako že jsem sice pořád stejná kráva, ale von mi přesto dává eště šanci. A prd, vlít do mě Peršan, škoda za tři sta tisíc. Když mi to došlo, tak jsem chodila po asfaltu, sbírala rozsypaný kusy plechu a cpala je do kufru. Nemohli mě vod toho dostat. Asfalt byl horkej a lepil se.“
@@ -240,3 +250,5 @@ Doma jsem za sebou zamkl, ze zvyku otevřel tašku, vytáhl svíčku. Hranatá, 
 „Něco pro věc udělat můžeš. Třeba dej pryč tu telku, co máš metr vod hlavy, vona vyzařuje, i když je vypnutá. Nic dobrýho.“
 
 Šel jsem do pokoje, vytáhl ze zdi anténu, smotal kabel. Pak jsem ještě kladivem a kombinačkami zničil přípojku, abych si to už nemohl rozmyslet. Vynesl jsem televizi před dům, postavil na chodník. Neměl bych vlastně zvracet? Nedělá se to, údajně? Neměl bych radši teď, než aby to na mě přišlo v tramvaji nebo před Barunou? Chvilku jsem chrčel nad mísou se třemi prsty v jícnu. Pak jsem si všiml, že na porcelánu lpí kus neřádu. Vzal jsem štětku a pořádně jsem to vydrbal. Polil savem a vzal to ještě jednou. Umyl jsem si ruce. Odhrnul jsem závěs, vyhlédl ven. Bedna stála na dlažbě pod zoufale ořezaným akátem, kdo by chtěl patnáct let starý křáp. Zasunul jsem nohy do sandálů a vyrazil. Okna v ulici byla do jednoho otevřená. Obyvatelé větrali, aby se aspoň večer nadechli.
+
+</section>

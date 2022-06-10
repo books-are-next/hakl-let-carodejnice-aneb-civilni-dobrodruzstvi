@@ -3,6 +3,8 @@ title: "5\\. Kouř a\_smích"
 contentType: prose
 ---
 
+<section>
+
 Od momentu, kdy jsem vytáhl paty od Baruny, mi začaly ty její zkřenčelé bijáky z bedny chybět. Zakoupil jsem tedy velký LCD panel, umístil ho doma na stůl k oknu, připojil počítač, stáhl DVD player, hotovo. Mohl jsem vyplout vstříc tekutým světům. Vrátit se do království obrazů. Můj první pokus se odehrál malinko při zdi – objevil jsem v bazaru Formanova _Amadea._ Akademické paradoxy, belhání tlustou čarou obtažených karikatur, nepěkná podívaná. Přesto jsem se při scéně z Dona Giovanniho hihňal nejméně pět minut blahem. Příští den jsem si šel cestou z rachoty pro další várku, _Zabiják Iči_ a Rafelsonovy _Malé životní etudy. Iči_ letěl ten večer do koše, svižný film, ale na mě moc japonský, _Etudy_ jsem si ponechal.
 
 A tak to pokračovalo. Nejraději jsem to měl v Bontonu na Můstku, tam nás takových bylo! Výrazněji jsem si oblíbil dva stálé zákazníky, nakrátko ostříhanou útlou paní, ta si vybírala obaly s disky tak, že ke každému přičichla. Rozhlédla se, natolik mimo zase nebyla, pak ňuchla jako lasice a už věděla. Něco se jí páčilo, něco míň, s prázdnou neodešla nikdy. A hřmotného kníratého chlapa v safari klobouku, který se s vystavenými tituly pravidelně hádal, vkládaje zkušenou hubou tu i tam anglosaské frázičky. Jestli chtěl působit jako někdo, kdo strávil půl života v Austrálii, dařilo se mu to dokonale. Stával nad originálními edicemi bez české podpory, probíral se jimi, až se stojan kymácel, a zvichřeně komentoval: „Có? _Krátký film o zabíjení_ čtrnáct set korun, vy mamrdi? You bastards? Ó by nešlo. Á todle, got you! Ó by šlo! Loď ahoj!“ Jakmile skončil, postavil jsem se na jeho místo a hledal, dokud jsem nenašel. _Kieślowski is a master, and he has never made a better film than this,_ v tom se všichni zázračně shodují. Vrátil jsem ho ale, za ty prachy, to zešíleli. Dal jsem ho víc dozadu, do nepříslušné přihrádky, trochu se záměrem. Když v ní příští den pořád čekal, rychle jsem se ho ujal. Muž v klobouku si právě odnášel koňáckým krokem k pokladně plný košík.
@@ -20,6 +22,10 @@ Film končí, prší fleky a kazy. Hrbatec zírá při měsíci z okna na dám
 Krtková dozametala, bouchla dveřmi. Na zemi po ní zůstalo šest úhledných hromad svinčíku. V tu ránu u nich přistála straka. Zvědavě přihopkala k první kupce, pustila se do ní zobákem, křídly. Rozmetala ji, rozházela, roztahala. Zbylých pět stihl stejný osud. Křáp, baba znovu na scéně, tlačí plastový kontejner na kolečkách. A vidí – dílo zmařeno. Číhá, sliní prst. Kontroluje okna. _Se_ _můžu vysssrat,_ _syčí__._ Zabila by. Ale musí se dát opět do díla. Pachatel kmitá ocáskem na zdi, tajemství však zůstane tajemstvím.
 
 Došlo mi, že jsem objevil nového, prudce zajímavého koníčka. Oslnila mě možnost vidět film optikou zvýšené účasti. Vnímat posun, chvílemi značný, mezi záměrem a uskutečněním. Spatřit na zádech hrdinky stín pomocného režiséra. Skoro jsem nemohl usnout, jak jsem si představoval, na co se podívám příští den.
+
+</section>
+
+<section>
 
 Mezitím jsem arci musel do roboty, ale uteklo to jako nic. Škrtal jsem, přidával, nahrazoval, k tomu jsem líčil holkám zhlédnuté bijáky. Přidal jsem historku s uklízečkou Krtkovou. Jak jsem ji onehdy potkal ráno před barákem, já v polospánku, ona už na lovu senzací. Jak ze mě vypadlo: _Šel jest Franta mezi Franty, prodal kabát, koupil karty._ A ona na to hutným hlasem: _Lepší karty nežli kabát, v karty můžeme si zahrát! Ale heleďté, todleje květén? Celej víkend jsme se ségrou seděly na chatě v kuchyni a byly sme tak nasraný! Tak že si upečem kus krůty. A najednou vám řev, jako když párá sloná! Ségra vodevře troubu, kocour vyletí, kouří jak raketá, ten tam buď spál, nebo si tam vlez až k tý krutě, ale vám šílenéj! Do toho vona r__ozveden__á, vožralá, uřvaná, tak já nevěděla – běžet za kocourem, těšit jí, nebo có?_ _A_ co se stalo s kocourem, ptal jsem se, probuzen. _To je to, že nevíme! Vylít voknem a už se nevrátil! A krůta tak smrděla, že jsme jí musely úplně vyhodit! A to byl eště blbější konec tý vůbec blbý nedělé!_
 
@@ -56,3 +62,5 @@ Psal jsem, přepisoval, mlátil pantem a sledoval oknem oblaka, valící se př
 „Byl už někdo rychlejší.“
 
 Znepokojovalo mě, jak naše řeč pokaždé ztratí směr, vykolejí, vsákne do země. Scházela nám tam vždycky poslední dávka soustředění nebo čeho, aby to mělo šanci být opravdu zajímavé. Buď jak buď, naši rozpravu vyslechl zavalitý ajtýk s čírkem, co lezl po kolenou pod stolem a hledal v prachu jakési modemy. Vycouval, zvedl se a po zčervenalé masce se mu lil slavnostní pot. Viditelně se těšil, až dole oznámí, jak vidím roli operační paměti.
+
+</section>

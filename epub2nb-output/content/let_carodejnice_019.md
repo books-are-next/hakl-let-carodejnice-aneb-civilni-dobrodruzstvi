@@ -3,6 +3,8 @@ title: 14\. Vylisováno jest
 contentType: prose
 ---
 
+<section>
+
 Voda kapala z větví, razila si cestu skrz nacucané vrstvy kořínků a jehličí a brala s sebou listí a mrtvý hmyz. Čůrky se slučovaly do stružek a v potůčcích bystře plynuly do údolí, kde se vlévaly do potoků. Díky tomu hrozilo každoroční zaplavení návsi. Ve smrčinách se držela těžká vůně hřibů, ale v plesnivých muldách rašily jen pavučinami obalené prašivky. Stoupali jsme vzhůru a zapadali v mokrých botách do struh a výmolů. Minuli jsme rozbořenou vodní elektrárnu. Zpod okraje lesa nad námi vykukovala řada omše­lých pohraničních pevnůstek, ne nepodobných lidským lebkám. Barunka soustředěně šlukovala chesterfieldku.
 
 „Máš to s sebou a vezmeš mě tam?“ zeptala se.
@@ -38,6 +40,10 @@ Prošli jsme lesem a před námi se otevřela říjnovým sluncem jakž takž v
 „Jsem vobyč neurotická – dva roky si uberu – čtyřiadvacítka, která potřebuje, aby sis na chvíli dřepnul, jak se řiká, na opačnou misku vah. Chci se zhoupnout, dál tě nebudu votravovat.“
 
 Stáli jsme u trafostanice, z jejíhož nitra vyvěral nepokojný praskot. V dálce se pásl kůň a nervózně hrabal svalnatou kýtou. Postavil se na přední a dvakrát vykopl. Potom se uklidnil a dál škubal obrovskou hlavou v roští.
+
+</section>
+
+<section>
 
 Když jsme se vrátili z procházky k domu, nanosil jsem polena k ohništi pod rozvalenou kamennou zídku. Potom se šla Baruna osprchovat, běžná hygiena. Po ní já. Zatáhl jsem za sebou závěs, abych nezlil podlahu. A vidím skrz matný igelit – otvírají se dveře, ona vchází. Jako v té scéně z _Psycha._ Přistavila si k vaně židli, umístila popelník, cigarety.
 
@@ -165,6 +171,10 @@ Mohl jsem sledovat, jak hledá slova. Slabikovala. Postupně odvrhovala výrazy.
 
 „Slyšels dobře – vylisováno jest.“
 
+</section>
+
+<section>
+
 Barunka odfukovala, levá ruka jí trčela do vzduchu jako zmrzlému vojínovi, pravou si držela čelo. Nacházeli jsme se v prázdné podkrovní místnosti, jen válenda, kde ležela ona. A křeslo, v němž jsem vězel já. Vstal jsem, shodil propocené hadry, sešel dolů, natáhl suchý svetr. V kuchyni jsem objevil televizi, pod ní polici s filmy, večer jsem si jich nevšiml, proč bych taky měl. Disky byly popsány stejnou rukou jako ty v jejím bytě. Pustil jsem si Burtonova _Eda Wooda._ Zkusil jsem z něj mít stejné potěšení jako vždycky předtím, ale senzace nemohla být větší a nemohla být ani menší, šlo o dovršený zázrak ryzí nostalgie. S úvodním záběrem mě naplnila slast z plynulé jízdy kamery. Moje receptory to milovaly. Zestárlý a zmačkaný Martin Landau, bezradně stojící nad bazénem s gumovým hlavonožcem. Dejte do toho život, volá režie, omotejte se a zmítejte se! Akce! A tak si tedy dramaticky nalíčený kvakoš lehá do studeného žabince a klade na sebe ochablé čurce. A jakoby s nimi zápasí.
 
 Usedl jsem na uzounkou lavičku před domem a nechal v sobě biják doznívat. Protože exces, to je ono! Jedině ten není rozebrán, vytěžen. Iracionální výmyk, kázal jsem šedým chaloupkám na protější stráni. _Pull the string!_ Jen maniaci se, často v příkrém rozporu s vlastními ambicemi, vymykají popu. Oni jediní nebudou rozprodáni, respektive budou, ale nezničí je to. Respektive zničí, ale o něco důstojněji. Respektive spíš mnohem hůř, jelikož nejsou schopni nadhledu, kterému se říká cynizmus.
@@ -228,3 +238,5 @@ Když jsem zahýbal do ulice, kde bydlím, přešlapoval před večerkou párek 
 Pondělí večer.
 
 Pustil jsem si _Ukradenou vzducholoď._ Loď ahoj! Na letišti jsem měl být v jedenáct dopoledne.
+
+</section>

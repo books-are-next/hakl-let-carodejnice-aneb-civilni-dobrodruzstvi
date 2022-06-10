@@ -3,6 +3,8 @@ title: 24\. Tvrzení proti tvrzení
 contentType: prose
 ---
 
+<section>
+
 V pražském vzduchu dlela povědomá pachová stopa – jako když se z mrazáku vytáhne léta zapomenutý polárkáč. Letohrádek Hvězda vyčníval z jiskřící srsti obory. Kolem chodníků se kupily hromady zmrazků. Jediný, kdo se radoval, byly straky, ty se něco nashazovaly sněhu ze soch, z parapetů. Z letiště jsem jel autobusem na Kulaťák, pak metrem. Ve vagónu dunělo ticho. Všichni psali krátké textové zprávy. Doma v předsíni deštníky, šály, koberec šejdrem, na skříni zablácený velocipéd. Na stole talíř s na kost vyschlými pomeranči. Světlo svítilo, voda tekla, plyn syčel, peníze tedy na účtu byly. Telefon zvonil, zvedl jsem ho.
 
 „Tady Erika, jsem na procházce a napadlo mě, že jsem tě už dlouho neslyšela. Jak se máš?“
@@ -152,3 +154,5 @@ Studená, lesklá křižovatka Nového Anděla připomínala úl obsy­paný zl�
 Vzal jsem to pěšky podél Botiče, kolem Barunčina baráku, v oknech tma. Pak přes Albertov a po schodech k Apolináři. Před porodnicí rejdoval mládenec s bavorem, vypadalo to, že se snaží zaparkovat. Snažil se dostat zadní nápravu přes okraj vysokého obrubníku. Zadek auta vždy znovu odskočil. Usmál jsem se tomu jeho úsilí. Zasmál jsem se snad až nepřípadně, jelikož ze mě zrovna v ten moment všecko spadlo jako mokrá peřina. Hoch můj smích zaregistroval. Motor zavyl, gumy vyjekly, on vystartoval a pokusil se mě přejet, jenže to pojal moc okázale. S velkou rezervou jsem stačil uhnout. Zastavil, zařadil zpátečku a vrátil se k parkování. Když se nepovedlo napoprvé, tak nic. Zamával jsem mu, on blikl světly na pozdrav.
 
 Doma jsem si pustil _Jdi a dívej se,_ Elen Klimov, Řitka Video, možná ne nejlepší volba. Skutečný běs umějí Rusové popsat, uchovat a předat ze všech nejlíp. Nejsilnější záběr je pro mě beztak až ten poslední. Jak jdou zelenou smrčinou, partyzáni, pichlavou, rzivou. Jak jim les zbělá pod nohama v mokrých křampech, a oni pořád jdou. Strašlivá vymejvárna, ale jak přesvědčivá.
+
+</section>

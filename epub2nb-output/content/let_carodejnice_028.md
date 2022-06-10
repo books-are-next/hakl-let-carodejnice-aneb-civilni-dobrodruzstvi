@@ -3,6 +3,8 @@ title: 23\. Jehly na vodách
 contentType: prose
 ---
 
+<section>
+
 Levente se hrbil v křesle a já mu dělal spolu s blekotající televizí společnost. Upíjel jsem víno, pozoroval z okna náměstí. Probíhající situace byly prosté jako práce vypínače. Na terásce sedávala na židli vzpřímená žena v plachetce a hladila kocoura, buď tam byla, nebo ne, většinou ano, jedenkrát byl na židli pouze kocour. Město vydávalo zvuk, jako když o sebe drhnou plechy.
 
 „Jo,“ pronesl jednoho dne dědek a ťukl malíkem o lenoch, „gilotina se nikdy nezastaví. Když ale dostaneš chuť na cibuli, jaká pomoc, musíš si dát cibuli!“
@@ -75,6 +77,10 @@ Vrtěla hlavou, vzdychala, šustila dlaněmi jako moucha. „Dobře,“ vzchopil
 
 „Jenom ve vzpomínce. Skutečnou nám soudruzi vyhodili do luftu i s barákem.“
 
+</section>
+
+<section>
+
 Několikrát týdně jsem před nimi utekl do galerie, do místnosti č. 57. Nosatý hlídač si mě už moc nevšímal, dokonce zdravil milimetrovým pokývnutím. A tak jsem mohl v klidu obcházet kolem triptychu a stopovat vztahy mezi zachycenými bytostmi, neb mi postupně docházelo, že jde vlastně o animovaný model mysli. Že jsem to já, stejně jako kdokoli, kdo tu bude žmoulat katalog po mně. Na desce byly zachyceny příhody, které se mi staly. Jejich aktéry jsem poznával. Rovněž tu bylo mnohokrát naznačeno, že by se každý měl aspoň pokusit povznést nad svůj osobní šlendrián. Nedat na sliby ani na víru, která, jak bylo z výrazu přítomného Antonína patrné, ve finále též nepadá na váhu. Povznést se. Jak to provést, k tomu se umělec nevyjadřoval. Jeho řešení bylo, že šmrdlal štětcem.
 
 Na Štědrý večer mi Bea věnovala krabici, v ní kožené španělské botky. Já jí huňatý svetr, do kterého se zabalila a skoro se v něm ztratila. Nazul jsem se do bot. Bea si okusovala záděru. Levente nahlížel do rajské zahrady, nebo se tak tvářil, a protáčel v prstech novou špacírku. Tichounce pomlaskával, hučel a fičel. Doprovázel píseň, která mu zuřila pod kloboukem. Chvílemi posílal komusi v chodbě nepatrné pantomimické pusinky. Pukpuk, pukpuk.
@@ -110,3 +116,5 @@ Na letišti jsem si stoupl do fronty k odbavení. Všichni na mě hleděli. Šk
 „Mně ti uplně řeže v mozku,“ ozval se za mnou ženský hlas. Česky.
 
 „Nevěnuj se tomu, je to než vo psychice,“ odvětil mužský, rovněž česky.
+
+</section>

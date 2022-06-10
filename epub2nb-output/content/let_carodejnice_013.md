@@ -3,6 +3,8 @@ title: 8\. Kouřící hora
 contentType: prose
 ---
 
+<section>
+
 Proč ke mně hovořila voda z vodovodu, nevysvětlím. Když jsem si myl ruce, močil do výlevky, slýchával jsem překotné brebentění a štěbetání. Rychlé, avšak smysluplné, zázračně přesné sentence. Kolikrát jsem se je snažil zachytit, zapsat, nahýbal jsem se nad bublajícím sifonem s blokem a tužkou, jedenkrát dokonce s diktafonem. Ale nešlo to stihnout.
 
 Jakmile jsem dorazil do redakce, obešel jsem všechny místnosti, v každé odvyprávěl sérii historek. Nepředstíral jsem, že jsou moje, zdroje jsem uváděl. Pak jsem všem uvařil čaj a kafe, sedl jsem a už jsem škrtal, prohazoval, vyhledával, měnil a kombinoval. Jako inspirace mi sloužil slovník synonym a stránky Vesmírných lidí, zejména ty stránky, zářivé bohatství obměn. Holky občas koukaly stranou a do země, bylo jim jasné, že používám nějaký systém přídavného spalování. Jenže já dobře věděl, kde je svrbí červík. Skočil jsem do cukrárny, vrátil se s balíkem, trubičky, mňam, ledy prolomeny. Spolykali jsme krém a připojili se zpět k hlavnímu nervu, k ústřední modle, k božstvu, k síti. Konečně je tu s námi, staletími vymodlená univerzální mysl, nadčlověk. Jenže za jakou cenu. Dům v ulici pod Petřínem byl napěchován případy, na nichž se daly následky každodenního obcování se sítí pozorovat, produkčními, grafiky, techniky, vedoucími vydání, redaktory, flundrami z inzerce, schopnými přepnout v půli slova na english. Šmírácké fotky, podezřelá svědectví a neumělé náčrty bereme jako skutečnost. Zapomněli jsme, že je rozdíl mezi objektem a obrazem, v tom má zase Aštar Šeran recht. A zapomněli jsme rádi, obraz je totiž mnohonásobně tajemnější než pak věc sama. Z druhé strany je třeba uznat, že nám internet držel a drží nos nad vodou. Nebyli bychom relativně bystří veselí jonáci, ale ztuhlé katatonické trosky, nebýt stálého připojení na amatérsky popsanou sice a zmrzačenou, ale pořád ještě přítomnost.
@@ -46,6 +48,10 @@ Z bryndy mě vytáhla Barunka. Zavolala a řekla:
 „Kdo je nafťák?“
 
 „Nedokážu říct, když se ptáš přímo, jsem už bohužel taková. Ale zavolám, jak to dopadlo, směla bych?“
+
+</section>
+
+<section>
 
 Volala v sobotu odpoledne, právě jsem projížděl obcí Boreč a směřoval mezi hložím a doubravami k patě stejnojmenného kopce. Vylíčila mi, jak byla na chalupě, jak se převlékla do tepláků a pomáhala otci skládat nařezaná polena. Otec aktivně žárlil na nafťáka. Postavil si hlavu a ne a ne odjet. Dokonce se stavěl, že zůstane přes noc, ač slíbil, že vypadne. „Tak jsem se just vyparádila, sukni, kramfleky, ksicht, před barákem zabrzdil taxík, já nastoupila a nafťák mě vez tágem do Tanvaldu. Po cestě mlčel, pak dal drožkářovi dva litry, aby bylo jasný, že pro něj peníze nejsou měřítko. Šli jsme do podniku, kde všichni pili hustou směs cukru, vody a rumu, poněvač šlo vo čajovej večírek. My to pili taky. Pak mě zas hodil tágem zpátky na chalupu, poděkoval mi a řek, že by mě zase rád viděl. Jediný zajímavý info, který během večera řek, bylo, že pondělí je den Mefistofelův. Proč, to už nevěděl. Zbytek večera mi fotr hustil do hlavy metodiku, jak správně skládat dříví. Dozadu ke zdi velký a silný špalky, největší dospoda, tenčí pod okap. Totéž s přední řadou, ale ta musí bejt z podstaty lehčí. Protože fakt nevodjel. Co děláš, že tak voddechuješ?“
 
@@ -106,3 +112,5 @@ Její život probíhal a měl logiku jako některý slabší kus od Lynche.
 „Udělej to.“
 
 Šlapal jsem s rozsvícenými blikačkami po silnici k jihozápadu a přemýšlel, co by tak mohla moje, jak by se snad dalo říct jediná, a tím pádem snad i nejlepší, kamarádka studovat.
+
+</section>

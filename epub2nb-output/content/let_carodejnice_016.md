@@ -3,6 +3,8 @@ title: 11\. Kdo eště?
 contentType: prose
 ---
 
+<section>
+
 Zničehonic mi neobyčejně zachutnalo sladké. Smíchovské cukrářky mě zbožňovaly a nenáviděly zároveň. „Pražská brambora,“ křičel jsem v záchvatu spontaneity, „tu jsem neviděl léta, z čeho je vlastně děláte?“ „No tak, je to marcipánový těsto,“ prohlašovaly. Kdežto já chtěl znát: „Co je vevnitř?“ a ony, zmateny mou srdečností, odpovídaly: „Takovej krém, no.“ A já jim oznamoval, zrovna jim: „Kterej je ale výtečnej proto, že se do něj dává to, co zbude! Zbytky!“ To už někteří zákazníci znechuceně opouštěli frontu, bylo jim jasné, že mám za sebou teprve úvod. „Přijde na to, _jaký_ zbytky,“ koketovaly vysíleně a balily do papíru tři cudným prstíkem přidržované koule. A já byl nucen je rozmázlým témbrem opravovat: „Zabalte mi jich, prosimvás, sedum!“ a ony bodře uzavíraly: „A hurá domu, že jo!“ a já kýval a letěl jsem do práce a tam v zášlehu rozdavačnosti věnoval holkám pět kusů, sám jsem v chodbě u kuchyňky spolkl dva. Tím pádem jsem musel markýrovat další pochůzku, abych koupil a rozkousal ještě dva, jelikož byly dobré jako nic předtím. Úplně jsem na holkách viděl, jak je jim trošičku nejasné, proč denně rozdávám laskominy. Ale jak si pak vždycky řeknou a co, serem na dietu, je to zadáčo – hop do toho.
 
 Pochůzek přibývalo. Necvakl jsem si například jízdenku, a tak mi nezbylo než stát ve frontě k okénku s nápisem _Pokuty_ a naslouchat spoluviníkům. Tmavovláska s uvadající krásou ve tváři se zapřísahala, že je slušná _občanka,_ má děti, psy, na všechno platí, bylo to poprvé a ona může na místě slíbit, že i naposled, tak ať jí dají slevu. Kravaťák za ní žádal, aby byl jeho synovi uložen nižší postih, neb měl v době, kdy byl kontrolován, vysokou horečku. Hrdý mládenec s vlnitými loknami a pyšným nosem opakovaně slabikoval do okénka: „Max-mi-li-án Ne-pá-čil!“ A byl to ten, který se nám onehdy cpal do debaty s Arnoštem. Z batohu mu trčel středověký meč. „Di už, ty pinokio,“ vrčela nepěkná mladice s mastnou pletí, na žebradle jí visel oranžový zajíc.
@@ -48,6 +50,10 @@ Nutit se do role ustaraného altruisty, šít na cizí špičky vtipné čepičk
 Nachlup tak to sama dělala, moje šéfová. Dokázala v každém vymáknout přesně to zanícené střívko, které ho trápilo. _Máte oči, jako byste celej den brečela, nebo je tady tak zakouřeno?_ ptala se na všechno připravené hvězdy. _Trochu jo,_ padl diblík do pasti. A _proč, prosimvás, chlapi jsou housky, ty za to nestojej._ A už to jelo.
 
 V jedné minutě člověk obývá svěřené království a žmoulá bagetu, v příští zaduje vichřice a on se náhle houpá ve služebním autě, na jehož střechu bubnuje déšť, vstříc nejasně zadaným cílům. Ocitli jsme se volky nevolky všichni uprostřed značného zrychlení. Co by mezi Josefem II. a řekněme doktorem Háchou vystačilo na kompletní existenci i s důchodem, to dnes vydá tak na měsíc zmatkování.
+
+</section>
+
+<section>
 
 Přirozenej dialog! Překvap ho, opakoval jsem si, když jsem vystupoval z auta u rozlehlého statku a kráčeli jsme s Fafejtou skrz plískanici dovnitř odrecitovat seznam otázek. Fafejta byl zamlklý padesátiletý nezmar s pozorným pohledem a dvěma až třemi foťáky na krku. Mistr nás přijal ve své restauraci a my spatřili, co to obnáší, být mistrem. Kam se hnul, tam se za ním otáčely obličeje jako poďobané terče slunečnic. Boleček, Boleček, modlily se lesklými hávy obtočené mámy z Hradiště. Zřejmě jsme se přimotali k nějaké oslavě.
 
@@ -100,6 +106,10 @@ Po pěti poctivě odpočítaných minutách jsem se s kašláním a vrzá­ní
 „Tys dělal na vnitru?“
 
 „Třináct let.“
+
+</section>
+
+<section>
 
 „Hrabal má výročí, jeď do Kerska a něco vymysli!“ vrhla se na mě šéfka, sotva jsem se objevil. „Do pozejtřka to musí bejt i s autorizacema! Šup, vem si Fafejtu!“
 
@@ -216,3 +226,5 @@ Kde, s kým a proč zase já, ptal jsem se. Ale s jedním divadelním ředite
 „Nevim.“
 
 „No tak přemejšlej, kdo eště?“
+
+</section>

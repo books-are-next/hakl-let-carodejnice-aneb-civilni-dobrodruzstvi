@@ -3,6 +3,8 @@ title: 22\. Vitulomonachus, politováníhodná zrůda ze Salamanky
 contentType: prose
 ---
 
+<section>
+
 Seděli jsme proti sobě na balkóně v plátěných lehátkách. Stará kouřila cigáro ze špičky a kašlala, já měl na hlavě čistě ze švandy pomačkaný panamák, který jsem našel v chodbě na věšáku. V letících kumulech stál helios a světlo jím vyvržené se zapichovalo do lisabonských střech zhruba po osmi minutách letu. Připadal jsem si jako v nepoužité sekvenci ze _Smrti v Benátkách,_ díky čemuž mi strašila v mozku samá neupřímná, amatérsky dvojsečná témata. Kupříkladu jsem se pustil do úvah o soucitu a logicky dospěl k výroku, že soucit je ta nejhorší lež ze všech.
 
 „Zjednodušujete,“ opáčila suše. „A jste naivní, jako všichni dneska.“
@@ -43,6 +45,10 @@ Pohlédla na mě podivně světlýma očima. „Je odtud hezký výhled, že,“
 
 „Prd jste zažil,“ odpověděla. „Tsch, tady jedna banda šílí po tom, co bylo a není, a druhá po tom, co je a nebude. Zeptám se jinak: O co jde _vám_? Co je váš _hlavní_ zájem? Jedna věc, dvě tři slova. A vy se už nadechujete, proč si nepomlčet? Řekněme si to zítra po obědě, na který vás tímto zvu. Když mi dáte přiměřenou odpověď, měla bych pro vás určité řešení.“
 
+</section>
+
+<section>
+
 Civěl jsem ze své lóže v Modelu, nohy prostrčené zábradlím. O co by mi šlo. Nejde o víc, než jak na pár sekund pozdržet to puchření. Udělat řez, zafixovat. Můj hlavní zájem je vymyslet, jak co nejslušnějším způsobem opustit toto báječné město. Jí vlastně nejde o nic jiného, ženské nešťastné. Kde se v ní bere ta energie.
 
 Zdola přilétlo osamělé klapnutí. Dolil jsem si a nahlédl přes okraj. Dole přešlapoval oslík, zapřažený do dvoukoláku, s ohlávkou uvázanou k mříži. Hodil jsem do igelitky žemli, čtvrtku melounu, slezl po schodech, pozdravil černošku, četla Elle, a vyšel ven. Rua das Portas de Santo Antão se leskla prázdnotou, hodinu před půlnocí nevídaná věc. Vzduch byl vlažný. Přistoupil jsem k oslu a vysypal před něj nadílku. Trhl ojí, vychlípil pysk a odhalil dlouhé řezáky. Natáhl jsem k němu ruku. Podrbat se nechal, ale pod kůží mu projela křeč hrůzy. Zdalipak může mít zvíře mindrák, napadlo mě cestou zpátky. Musí ho mít, člověk je smrt.
@@ -58,6 +64,10 @@ Sotva jsme odpoledne dojedli, pozdvihla Bea obočí. Měli jsme terinu, terina j
 „Kam ale?“
 
 „Menší výlet by vám nevadil? Něco nového poznat? Trochu risko­vat se nebojíte? Čas máte? Óptimo!“
+
+</section>
+
+<section>
 
 Napozítří mě naložila do seatu a vezla mě po nekonečném mostě nad zátokou. Tam si jenom na otočku povykládala s paní, které průběžně hladila hůlkovitou ruku. Pak jsme se po něm zase vraceli. Projeli jsme panelákovými čtvrtěmi, minuli jásající stadióny, vápenky, políčka. Bea spolykala u pumpy mastný piroh, já přihlížel, podle ní jsem ten den nesměl jíst. Po delší jízdě severozápadním směrem jsme odbočili na asfaltku, z ní na kamenitou cestu. Od obzoru se nám valily vstříc diamantové válce vln. Dohoupali jsme se na svažující se loučku, končící srázem. Vypnula motor. Bylo reálné, že pokud nebude fungovat ruční brzda, za kterou zatáhla, poletí plecháč do moře. Vystoupili jsme. Auto vypadalo jako ropucha před skokem. Stará bouchla dveřmi a omotala si kolem hlavy šál, ze kterého jí vykukoval jen fialově tečkovaný sedlovitý nos.
 
@@ -182,3 +192,5 @@ Vyjádřil jsem souhlas, ačkoli bylo teprve září. Pomalá odpoledne, oční 
 „A můj hrnec tam zůstal,“ vzpomněla si.
 
 Načež jsme vjeli do chlemtavého stříbřitého deště.
+
+</section>
