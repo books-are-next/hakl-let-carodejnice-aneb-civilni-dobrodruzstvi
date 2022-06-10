@@ -3,6 +3,8 @@ title: 18\. To právě musíš
 contentType: prose
 ---
 
+<section>
+
 Nicméně byla ochotna dát si ještě někde něco, abychom mohli malinko protřepat to naše středoevropské know-how. Popojeli jsme do města a vyrazili ulicemi, popíjeli na zahřátí koktejly, kterým říkala _aguardente,_ kterým říkala _tangerina._ Až jsme dospěli na bulvár, kde nás zvaly poutače na veselici. Uvnitř do toho řezala cikánská kapela, trubky a xylofony, sliny, pot, kytary k tomu. Na pódiu cifroval vyzáblý šizuňk, pak přiskočil k mikrofonu a vytáhl z paty halekačku, až nás svrbělo v nose. Po něm pokročil vpřed tučný fořt, šoupl klobouk do týla, přitiskl tvář k trubce a hrál sólo. A pak se do toho ti hudlaři, co nesměli celou věčnost sáhnout na klapky, tak dupali podpatkem, teprve obuli. Vzal jsem ji do kola, nemám to hopsání rád, ale nebylo zbytí. Šoupali jsme podrážkami, kývali pupkem. Mluvil jsem vymyšlenou řečí, ona naslouchala. Pak to čerchmanti zabalili, my dopili a snažili jsme se protlačit uličkou ucpanou černovlasým davem. Venku kaskády neonů, balóny světel. Až jsme doklopýtali do toho mého Modela, kam jsme dorazili v hodině, kdy dům naříkal prvním náporem kvílení milostníků. V minutě, kdy se hoši a dívky začínali vzájemně ohryzávat. Žena v recepci nám vydala klíč a cudně obrátila list. Noc neskončila ani hlaholem popelářů, ani slunce východem. Jediné, na co si spolehlivě vzpomínám, byl moment, kdy jsem jí omylem zajel do zadnice, omylem jako kdykoliv předtím, když k tomu došlo. Nikdy záměr, vždycky až z nouze ctnost. Holka zaržála jako husar, což mě vyhodilo ze sedla. Musel jsem se zatraceně soustředit, abych se dostal zpátky k věci. Usilovně jsem myslel na Pokušení svatého Antonína, na parní labutě v povětří, na skřehotavé zmeky, křaky, plivníky, na kuří tvory, na zlomyslné pištivé čadící měchuřiny. Na hořící městečko, nad kterým rozčileně poletují pekelná sarančata.
 
 Potom jsme usrkávali přeslazené kafíčko z hrnků s nápisem _Modelo, Casa de Hóspedes,_ obaleni dvojitou dekou, topení dvakrát nehřálo. Kafe nám uvařila recepční, byla ta možnost.
@@ -65,6 +67,10 @@ Dostal jsem řádnou facku. Uprostřed spánku v cizí posteli prožitek čiré
 
 Řekl jsem jí jméno a choval ji v náručí jako drkotajícího utopence. Evropo, chráme abstraktních vztahů, kdo se v tobě vyzná? Rozum těžko. Protočili jsme tedy další kolečko. Pak nás, po chvíli planého hmatání a šišmání, přemohl spánek. Od prvního dne, co jsem přibyl na Iberský výběžek, jsem nepotřeboval stilnox, zněly úvodní titulky k dalšímu klesavému snu. Všechny nemoci zjevně povstávají z nešvarů místa, kde jedinec pobývá déle, než je zdrávo. A já v té stověžaté matičce pobýval, hrom do řiti, celý život.
 
+</section>
+
+<section>
+
 Vzbudilo mě rachocení klíče. Budík, bakelitová pyramida s intenzivně fosforeskujícím ciferníkem, těžce tikal. Dvě po poledni. Vystrčil jsem nohu z postele a hrnul se aspoň pro kalhoty. Probuzená děva mi stiskla předloktí. Neponižuj se, zůstaň. Zůstal jsem tedy. Teta otevřela dveře. Vlastně neotevřela, byly přivřené. Jen do nich šťouch­la a nahlédla. Pozdravil jsem.
 
 „Vy mi nic nevykládejte,“ řekla. „Já to věděla, už když jste strčil ten svůj nos do dveří.“ A pak provozním tónem: „Olá! Kófi?“
@@ -92,3 +98,5 @@ V kuchyni na mě čekalo další překvapení ve formě úpravného starce s h
 „Jenže nechce,“ doplnila Iris.
 
 Primo Levente mi hleděl na bradu a uculoval se. Zasalutoval jsem mu. Zvedl levici kousek nad koleno a pustil. Vzal mě na vědomí. Pak jsme si dali kófi.
+
+</section>

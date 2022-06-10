@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Let čarodějnice aneb Civilní dobrodružství](https://search.mlp.cz/cz/titul/let-carodejnice-aneb-civilni-dobrodruzstvi/2687113/#book-content) tak, jak bylo vydáno nakladatelstvím Argo v Praze v roce 2008. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 22. 10. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

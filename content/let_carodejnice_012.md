@@ -3,6 +3,8 @@ title: "7\\. Co jsem viděl a\_slyšel ve sklepě"
 contentType: prose
 ---
 
+<section>
+
 Podobně jsem taky navštívil jednoho známého. Jmenoval se Arnošt a měl domek s houbou prolezlým krovem v zaprášeném městečku za Prahou, kde žil se svou stárnoucí ženou. Denně odtamtud dojížděl do ústavu v Krči, kde se věnoval výzkumu nižších živočichů. Krov byl prohnilý natolik, že se propadal, čehož si Arnošt všiml, až když dům zaplatil. Vyřešil to tak, že ho přestal brát na vědomí. Slovo _střecha_ bylo lepší před ním nevyslovovat. Přivítali mě, opřeli mi kolo v garáži o dřevěnou kozu a zavedli mě do kuchyně.
 
 „Tak co mi povíš?“ ptal se. Paní za jeho zády vzdychala a cinkala čajníkem.
@@ -48,6 +50,10 @@ Dvorek byl zalehlý vegetací. Lístečky se třepetaly ve větru, středně vel
 Ve dveřích se zjevil Arnošt. „Hháby chou hajímavý!“ vyslovoval, jako by dojídal housku. „Tcheba jichtý auchtralský hhabišky fungujou jako hhivý mucholapky, kdyhh na ně chedne moucha, vypuchtěj lepkavou chťávu a moucha che pchilepí. A kdyhh je hhabička polepená, tak chvlíkne kůži a chpolkne ji i ch mouchama. Tach běž, hop!“ řekl, vyplázl jazyk, z úst mu vylezla malinká bradavičnatá žabka, vskočila mu do dlaně a z dlaně do vody.
 
 „Tak to byla právě kuňka žlutobřichá, její kůže je mírně jedovatá a náš Arnošt je dobytek, von miluje, když ho pak brní jazyk i s patrem,“ utřela si paní pot, sebrala nádobu a ztěžka zmizela v předsíni.
+
+</section>
+
+<section>
 
 Nanosili jsme k ohništi vlhká polena a zapálili je. Arnošt počal oheň rozdmychávat kusem lepenky. Když bylo zákoutí naplněno dostatkem dusivého, pachem plísně prostoupeného kouře, posadili jsme se na bedny přitažené z dřevníku.
 
@@ -279,6 +285,10 @@ Arnošt se posadil, víčka nadále zavřená. „Havrani přiletěli,“ řekl.
 
 „Rá, kráá,“ zaskřípal seshora nějaký nedočkavý rekrut a tím tomu dal korunu.
 
+</section>
+
+<section>
+
 Když zachraptěli kohouti, vylezli jsme do podkroví. Ukázal mi komůrku, matraci, spacák, chvilku stál, načež zadrmolil: „Heleď, kdyby něco nebylo v pořádku, moh bych si případně přijít s tebou trošku popovídat? Nemůžu, jak vidim, poněvadž toho máš plný zuby.“
 
 To řka, zmizel. Zavřel jsem dveře, lehl a střemhlav usnul. Spal jsem, pak jsem se probudil. Na okenním rámu lpělo neduživě narudlé světlo. V nohách postele stál Arnošt v trenýrkách a upíral na mě šedožlutý zrak.
@@ -338,3 +348,5 @@ Arnošt mi kamenně kynul. Zasalutoval jsem mu a těsně minul hluboký neohraz
 Projížděl jsem smrčinami, plival do potoků a potil se v kukuřičných polích. V zahradní restauraci jsem si dal čočkovou polévku. „Chutnala?“ tázal se klasický číšník. „Tak dobrou jsem nejed celý roky,“ souhlasil jsem, „platim pivo, dva rohlíky a tu polívku.“ „Šedesát osm padesát,“ opáčil. „A tak drahou taky ne,“ dodal jsem. „Mouchy nám zvedaj ceny,“ krčil rameny, „je jich letos tolik, že hosti nechoděj.“ A opravdu, když jsem chtěl dopít, spatřil jsem na vnitřních stěnách sklenice nalepený bzučící štětinatý dav, který se nedal vyklepat ani vyfouknout, musel se vyhnat prstem. „Běžte, bábušky,“ řekl jsem jim, což číšník zaslechl. Uchopil jsem kolo a soustředil se, abych nasedl podobně letmo jako před Arnoštem. Zdařilo se.
 
 Obloukem jsem objížděl řevem dunící koupaliště i zase až moc tiché vesnice. Když už jsem musel nějakou projet, zastavil jsem a poznamenal si na okraj mapy, jak se to tam jmenuje. Skládací mapu okolí Prahy jsem objevil v zadní kapse. Musel jsem, arci, dávat pozor, názvy měly sklon dělat si samy ze sebe srandu – Staré Smrady, Mámina Pakáž, Pajgrmula, Vniveč. Blížil jsem se k Divoké Šárce. Mnohokrát mě však zradil gyroskop, či spíš se mi zalíbila možnost spatřit místo nazývající se Kateřinin skok či Zubatého lávka. Vrátil jsem se tedy, odbočil, našel to, pak jsem hledal cestu zpět. Na závěr se přede mnou otevřela stráň se suchým bahnem potaženými meandry Prahy 6. Ve vagónu metra se mého bicyklu chytly čtyři tlusté turistky a urputně se ho držely, čili jsem musel rám aktivně tlačit ke stěně, aby se všecko nesvalilo. Doma jsem měl právě tolik energie, abych si na mapě pospojoval místa, jimiž jsem projel. Vzdušnou čarou to nebylo ani dvacet, a já najel dobrých sedmdesát.
+
+</section>

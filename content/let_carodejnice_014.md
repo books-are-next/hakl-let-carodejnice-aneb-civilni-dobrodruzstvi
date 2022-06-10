@@ -3,6 +3,8 @@ title: 9\. Mám tě, ty nacistickej špióne!
 contentType: prose
 ---
 
+<section>
+
 Když potom přiletěla šéfka, ať fofrem střelím z hlavy téma, řekl jsem: „Boreč, kouřící hora, tip na výlet.“
 
 „Skvělý,“ volala. „Minimálně dvanáct tisíc znaků s mezerama a do boxíku anketa _Proč jezdím na Boreč!_ Bém je turista, ten ti vodpoví, kdo eště, na to přijdeš sám. Pošli tam Fafejtu, ať jsou ve čtvrtek fotky!“
@@ -142,3 +144,5 @@ _OK,_ odepsal jsem Arnoštovi. Zadoufal jsem, že se snad nenamíchl nebo neuraz
 A co teprve Homer Simpson, hrůzný panic a uplakánek! Ten, který je v 0:57:56 objeven sadistickým dítětem: _Mám tě, ty nacistickej špióne!_ Stejným, které potká mezi zaparkovanými fordkami ve 2:04:26, vláčeje kufry ulicí. _Bestie,_ křičí. Vzápětí křupne první kostička.
 
 _OK. Odpověď je ANO,_ přišlo mi z éteru. Marná sláva, bylo v něm něco studeného, studeného a dravého a pro mě, přiznám se, i odporného, neboť jsem ve skrytu duše měšťák. Dravého po způsobu hmyzu, potřeboval se napít mízy, ale věděl, kdy přestat. Uměl se včas rozloučit. Všichni věc v pohodě ustáli, až na toho inženýra. A ten si za to mohl podle všeho sám.
+
+</section>

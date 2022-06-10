@@ -3,6 +3,8 @@ title: "19\\. Onačejší než v\_ráji"
 contentType: prose
 ---
 
+<section>
+
 Teta na mě dělala stejný dojem jako onehdy, umanutá ženská, kterou proti jejímu názoru nikdo o ničem nepřesvědčí. Mluvila až třemi jazyky naráz, větu nakousla španělsky, přešla do němčiny s přízvučnými koncovkami, pointu odlila z protahovaných mručivých samohlásek, spojených s pokašláváním a mnutím očního koutku. I lehčí hnutí mysli provázela výraznou asynchronní prací s víčky a obočím, nafukováním tváří a podobně. V létě se má jíst co nejvíc rajčat, tvrdila, protože je v nich účinná látka. Nejlepší rajčata jsou ovšem na Krétě. Jsou sice zelená, šišatá, ano i rozpraskaná, ale ta chuť! My říkáme _kosmos,_ jenže tím myslíme většinou akorát vlastní ubohou mámu. Původní Baskové vedli chudý duchovní život, modlili se k větvím a kopřivám, ne jak se dneska tvrdí.
 
 Zprávám jsem rozuměl díky Iris, která řídila obludnou překladatelskou křižovatku podle nejlepšího svědomí. Vysvětlovala, doplňovala, hledala synonyma, až v ní vrabci kokrhali, sypala do sebe kešu, třela si žvýkáním ztuhlá líčka a čemusi se šťastně hihňala. Nějakým posunům, valérům asi. Stůl byl plný misek, v nich mandle, ořechy, křížaly a jiné suché směsi. Bylo toho na mě všeho nějak moc, hlavně těch mandlí a zvláštního klidu asi. Klid plynul jednoznačně od tety. Její osobou procházelo přes veškeré kafrání cosi jako snížená amplituda, zklidňující fáze, brázda nízkého tlaku. Díky čemuž jsem nepociťoval ani stín rozpaků, jakkoli důvod k nim nescházel. Usmíval jsem se na ni, ač zrovna líčila zvěrstva řeckého komunizmu. Zároveň jsem se snažil působit na mladou jako někdo, kdo to v pohodě zvládá, a na dědka jako bledý poctivec ze severu, který se sem nevlísal s úmyslem nechat to tu, poleví-li bdělost, vybuchnout. Pozoroval mě pod přivřenými víčky, pasant nažehlená, a v oblasti solaru mu škubal tenký stařecký smích, promísený rovnou i s nářkem a s lhostejným pohrdáním.
@@ -69,6 +71,10 @@ Dionísio nás poslal k Príncipovi, Príncipo se odvolal na Primitiva, Primiti
 
 Žena v recepci Modela mi neuspěchaně naznačila, že mě opět vítá. V jednom patře vrzalo techno, v dalším duněly zvuky, jako když někdo mrská na stěnu hroudy plastelíny.
 
+</section>
+
+<section>
+
 Moleiro mě poslal do dalšího snacku, ať v něm počkám, že se někdo přihlásí. Kolkolem zněl hovor, na zdi blikal neon, já rozebíral vidličkou grilovanou sardinku. K čemu bych se hodil, přemítal jsem, co vlastně umím. Navečer se ke mně protlačil šouravý ivánek s trojúhelníkovitým obličejem, s hrbolatým čelem, a usmíval se jako piškuntál. On poznal Slovana ve mně, já v něm. Naše činy řídila skrývaná nejistota. _Kéž se zasmějí svým vášním,_ jak říká Stalker ve stejnojmenném filmu. _Vždyť to, čemu říkají vášeň, ve skutečnosti není duševní energie, ale jenom tření mezi duší a vnějším světem._ Došel ke mně a beze všeho se posadil. Prozradil mi, že jméno není důležité, zato trvá na tom, abychom si před zahájením jednání připili na úspěch. Stalo se. Ptal se, zda umím řeč. Ani dost málo, doznal jsem.
 
 „Skvěle!“ zněl jeho názor. „Nastíním vám tedy, o co by šlo.“
@@ -122,3 +128,5 @@ Odpoledne jsem ležel na pelesti v Modelu a krátil si šedou hodinku opaková
 „To zatím stačí, vížhh,“ zacpala mi špičkou jazyka ucho, „to bude dobrý, uvidížžh.“ Oddal jsem se představě, že se mi do hlavy snaží vedrat mnohonásobně větší, bohatě slinící organizmus. Procházeli jsme stádiem, kdy nesou pochodeň poznání vpřed hlavně kožní vjemy. Okolní textury jsme vnímali okrajově, záměry, vládnoucí druhému plánu, též. Dala si sprchu, dopili jsme víno, dala si druhou a odfrčela. Já ležel na posteli, dloubal lžičkou mdlý plod opuncie a pokračoval v nacvičování frází.
 
 Zhruba za týden už jsem dokázal s tetou promluvit, pozvala mě totiž. Provedla to tak, že zakašlala do sluchátka a řekla: „Zvu vás na oběd, abyste věděl.“ Bylo jasné, kdo to zrežíroval. Jel jsem na oběd a nedělal si hlavu s nějakou sebeúctou. Sebeúcta, která není průběžně podrobována nejtěžším zkouškám, beztak okamžitě degeneruje v sebeklam.
+
+</section>

@@ -3,6 +3,8 @@ title: 2\. Dejchej!
 contentType: prose
 ---
 
+<section>
+
 Prostor bistra neobsahoval nic, co by mohlo fungovat jako důvod, proč se neobrátit a nejít jinam. My si však zvykli chodit sem, když už. Za pultem přecházela majitelka podniku, masivní blondýna s těžkým tygřím obličejem, o které se tvrdilo, že je hodně na chlapy a že občas přefikne nepozorného hosta přímo tam někde vzadu u mrazáku. Bar se jmenoval Barakuda. To byl možná ten důvod. Rádio hrálo. Barunka seděla v koutě a na ukazováku levé ruky měla flastr, ze kterého zuby vytahovala nit.
 
 „To je nefér,“ vyprskla vlákno.
@@ -111,6 +113,10 @@ Lidi v tramvaji se drželi za krk. „Už aby sprchlo,“ modlili se, „tohle 
 
 Psal jsem, přepisoval, vracel články přispěvatelům k přepsání, pak jsem to po nich stejně ještě předělával. Do toho jsem mluvil na holky a vyťukával nohama v sandálech komplikované rytmy. Vše plynulo bez příhod. Editor nemá na nějaké příhody čas, večer to zabalí, dopíjí, dojídá, užasle popochází. Pak mu někdo zavolá, jestli by nešel na panáka, on jde, sedí a rozkládá. Domů dorazí posledním metrem, snaží se usnout. Kolem páté vešla do redakce jako vždy uklízečka. Nikoho si nevšímala, nikdo si nevšímal jí. Sesypala papíry, vyluxovala. Nakrátko oškubaná, mladá, malá, kašlavá, neforemná. Když brala koš zpod mých nohou, úplně jsem cítil, jak mě nenávidí za to, že si tu sedím.
 
+</section>
+
+<section>
+
 „Vyber ňáký kino a budeme se dívat,“ navrhla Barunka, přičemž bojovala se sáčkem lískových jader.
 
 Přesunul jsem se k lepenkovým krabicím, zaplněným ohmatanými obaly, popsanými lajdáckými chlapskými verzálkami. Mnoho disků vězelo v potrhaných papírových obálkách, spousta se jich válela jen tak. Bylo znát, že v nich bývá pravidelně blouděno. Vybral jsem americký film z padesátých let, deklarovaný jako horor. Byl o pavoucích. Napřed byli malí, zato jich bylo jako máku. Lezli po okapech, po stromech, ale především žili na zapřenou vzadu v policích supermarketů.
@@ -208,3 +214,5 @@ _Nicku!_ znělo za mnou z pokoje, _Majku! Nicku! Majku! Nicku! Dejchej, Majku, 
 „To jsou hrozný filmy, co tady máš,“ dodal jsem ze svého přístelku do tmy.
 
 „Vida, jaks vobrátil,“ odpověděla mi z postele.
+
+</section>

@@ -3,6 +3,8 @@ title: 26\. Náměstí Míru
 contentType: prose
 ---
 
+<section>
+
 Opíral jsem se o litinový sloupek před kostelem a na někoho jsem čekal. Svatá Ludmila se leskla jako od oleje, od Strašnic se sem valila černá bouřka.
 
 Zpoza okrasného keře náhle vystoupila Barunka. Měla měňavé petrolejové šaty, k tomu debilní lodičky s kramflekem. Našlapovala, jako by kráčela po kyselině. Trochu až jako tančila, kdoví co jí strašilo v kouli. Mířila ke mně, minula mě. Figuru měla jako lusk a svetřík za ní vlál. K aortě mi sáhla neviditelná ruka minulosti. Jen běž, bláznivá, bručel jsem za ní polohlasem, pochoduj. Co bych ti teď najednou vykládal. Pak o zem pleskl první nápor deště a já zamířil ke vchodu do metra, ve kterém před okamžikem zmizela. Co jsem to za člověka, vidím známou tvář a dělám, že tu nejsem. K metru jsem ale nedoběhl. Zastavila mě voda. Bylo to, jako když se na město vylije jezero. Po dláždění se hrnul souvislý hnědý proud. Brodil jsem se v něm po kotníky a mířil k lidmi narvané zastřešené zastávce. Zčistajasna vše ozářilo nepřirozeně intenzivní světlo. Ucítil jsem v chodidlech kobylí kopanec. Ochromující škubnutí. Poté bylo zase vše normální. Stáli jsme v průtrži, my obyvatelé, a čuměli na sebe. Byli jsme vespolek překvapeni, že by to mohlo být až tak jednoduché. Smrt shůry, jak je psáno na přídi přistávající helikoptéry v Coppolově _Apokalypse,_ zhruba v pětadvacáté minutě a dvacáté vteřině.
@@ -87,6 +89,10 @@ Průběžně jsem četl matčiny spisky. Vždy, když jsem jich učetl hromádku
 
 Čím byly máminy zprávy čerstvějšího data, tím víc v nich bylo neklidu, jak bych rád věřil, ale naopak nezvládnutelného zmatku z blížícího se zakončení osobní existence. Občas přišlo pár stránek, na nichž byly naťukány samé otazníky, středníky a různě přehlasované samohlásky, doplněné naivními kresbami slepiček. Slepičky jsem uchoval. Častokrát mi zabloudily myšlenky k sestře. Měl jsem chuť jí volat, psát. Jak to, sakra, žes nebyla smutná? Vedle čehož se mi vkrádalo na mysl podezření, jestli smutek sám o sobě není rudiment, atavizmus, fígl zmatkujících neuronů.
 
+</section>
+
+<section>
+
 A taky jsem asi měl kolem sebe zbytečně moc ženského principu obecně. Kdykoliv jsem vytáhl paty ze dveří, ometala se za nimi sousedka, přehuštěná tepláková gazela původem od Chomutova. Většinou držela za ruku dítě, které už taky mělo ty její oči. „Vy se, sousedíku, za tou zdí ale navzdycháte,“ houkla na mě zblízka a měla tak kulaté zornice, že se to nedá vypovědět. Dítě zkušeně vyčkávalo, co odpovím. „Dyť jsem tu dlouho nebyl,“ namítl jsem. „No a proto poznám, že už tady jste,“ opáčila. „Vy se, páníku, za tou zdí něco nahekáte!“ Kde jsem byl, to ji nezajímalo, co si taky honem vymyslet. Proč vlastně neříct pravdu, byl jsem v Dallasu, prostě sen, to my si tady neumíme představit.
 
 _ZKONTROLOVAT VZDYCHÁNÍ!_ načmáral jsem fixem na víko od krabice a připíchl ho nad postel. A v kuchyni na stůl: _VZDYCHÁM?_
@@ -134,3 +140,5 @@ Erika mi z Brna volala obden, udělala si z toho mores.
 „Třeba,“ souhlasil jsem.
 
 Měsíc času, za tu dobu by se nepostavil na nohy leda trotl.
+
+</section>

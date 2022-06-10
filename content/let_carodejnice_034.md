@@ -3,6 +3,8 @@ title: 29\. Cesta do středu
 contentType: prose
 ---
 
+<section>
+
 Další den jsem se kdovíproč hned po probuzení vyšvihl znovu do sedla a vyrazil po pravém břehu k Zbraslavi. Nad písčinami visela mlha, pavoučci tkali. Nad Závistí se vyvalilo z mlh osvětlovací těleso a začalo pálit do zad. Černošice-Mokropsy, Dobřichovice, tam někde jsem si dal oběd. V restauraci pod smrkem, kde mi postarší servírka schválila volbu slovy: „Kachní játra, ty si tu před váma dával chlap, kterej o sobě tvrdil, že je kníže.“ „A chutnaly mu?“ ptal jsem se. „Pf, to byste se musel zeptat jeho,“ odvětila. Tak jsem si dal radši znojemskou.
 
 Odpoledne jsem se vracel mezi čadícími tureckými kamióny po berounské výpadovce ku Praze. Mistrovská práce bez nutnosti se tázat, přemítal jsem, to se lehko řekne. Jenže proč já vlastně k tomu obrazu běhal? Proč jsem před ním stál tolikrát, až to začínalo zneklidňovat důstojně podřimující kustody? Až už měli chuť žhavit vysílačku, jestli nebudu nějaký piloun, co jim chce vynést pod svetrem Salome? Protože jsem v tom herberku kolem strachy zcepenělého světce postupně nacházel zřetelnou zprávu: Je to jen rutina, nic složitého. To, co zná kdejaký mourek, vyhřívající se na střeše. Vstupování ducha. Nechat myšlenky volně rozpadat, toť vše. Jak se věci mají opravdu, nikdo neví. A tak se opakují záměrně nejasné, básnivé teze. Vrčení roztočeného mozkového dynama přitahuje tvory z nicot, fasci­nované vším, co vykazuje známky bytí, tvrdí jeden. Z jakých nicot a jaké tvory? mečí druhý. Netahejte je sem, nechte je, nabádá třetí. Tvory z objektivního světa, zkouší namátkou čtvrtý. A kde má ten objektivní svět hranice? dáví slinivku pátý. Milimetr od mých očí, dí tantrický stařec v koutě. Já raději držím pysk, neboť s jistotou vím vždycky jen to, co mi před chvilkou někdo sdělil, čili jsem málokdy originální. Což říkám možná hlavně proto, že řez vedený proti sobě bývá kladně kvitován. Kvitován kým, když tu nikdo jiný není? Když šlapu do kopce po vydrolené krajnici, potím se jako vrata a jedu v samomluvě? Líbit se sám sobě, o nic většího nejde?
@@ -236,3 +238,5 @@ Těsně za mnou se ozvalo úděsné zaskučení – blondýna zapnula větrák 
 „Ta je hrozná, ale za kolejema na rohu je jeden zapadák, tak tam?“
 
 Židle zaskřípala, když jsem ji odsouval. Fuj, řekla Barunka.
+
+</section>

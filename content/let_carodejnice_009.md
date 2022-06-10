@@ -3,6 +3,8 @@ title: "4\\. Kašel a\_dým"
 contentType: prose
 ---
 
+<section>
+
 První den, kdy jsem to nevydržel, bylo úterý. Vešel jsem v devět patnáct ráno hlavním vchodem do obchoďáku, vyjel až na horní galerii a zaujal postavení za umělým keřem. Zpoza něj jsem se dopodrobna obeznámil se situací. Před potravinami se hemžilo telefonující úřednictvo, zevlouni s gyrosem, nakupující samice, mládež na čumendě. Všichni se navzájem hlídali a pozorovali. _Akce, akce, akce,_ zvaly cedule do nitra bludiště. Mezi sloupy postávalo několik křápků v oblecích se šnekem vysílačky v uchu. Kyselá křeč strachu mi prohrábla střeva a vydatně jsem se orosil.
 
 Ve středu už jsem byl nicméně schopen projít přízemím. Ve čtvrtek jsem to zopakoval a od pátku jsem si zkracoval cestu do práce jako dřív. Zase jsem okukoval svítítka, pískátka, hračičky, nepokoje. Mezi egyptskými figurami přibyl Amemet s krokodýlí hlavou. U kasy zívala ničemná lodyha v bokovkách. Nějak jsem přestával mít ty krámy rád. Diody bodaly do sítnice, bižuterie se mrtvě leskla. Na dně haly stála řada oválných stánků, připomínajících létající kabinu z Lynchovy _Duny._ Za tím, co byl nejblíže místu, kde Chorche padl, jsem občas postál. Potřeboval jsem se dozvědět, jestli tam někde náhodou dál, živ a zdráv, nebuzeruje lidi. Divná věc, říkal jsem si, jak rychle šel k zemi. Přece to nemůže vitamíny a proteiny nabušený organizmus tak lehce vzdát. Čekal bych cokoliv, jen to ne, říkal jsem si a listoval v knihkupectví u vchodu atlasem Poznej lidské tělo. V oblastech, připadajících v úvahu, se nacházely samé důležité orgány.
@@ -113,6 +115,10 @@ Má kamarády, musí mít, přece nemá jenom muže v Koreji, mě a šéfa na 
 
 Vsypal jsem cibulku do másla a rozhlížel se po příhodném koření, v kredenci byl jen bobkový list. Pak mi padl zrak na dárek v igelitu. Jak by to asi chutnalo. Rozdrolil jsem šištici, druhou, hodil na pánev. Podržel jsem v nose divokou vůni, rozklepl na to tři vejce a zamíchal. Mělo to chuť jako vajíčka s kopřivami. Posnídal jsem, opláchl talíř, pánev, přibouchl, zamkl.
 
+</section>
+
+<section>
+
 Do práce jsem nemusel, domů jsem nechtěl, vyrazil jsem tedy jen tak s batohem na rameni na rajz. Původní záměr byl vystoupat na Vyšehrad, jenže jsem v půli kopce nahlédl, že z toho směru nebude k vidění nic výjimečného. Nábřeží, komíny, rytmicky mrkající plechové kryty větráků, nazlátlý rosol nad sršními hnízdy střech. Po rozpáleném asfaltu kroužil na koloběžce zachmuřený hošík s nalitou, zdravě prokrvenou tváří. Odrážel se a opisoval kružnici o co nejmenším průměru, dokola a dokola. Vrátil jsem se k Výtoni a ohnul kroky ke schodům, vedoucím na oficiálně bezejmenný most, v mapách označovaný jako _Železniční._ Prkna pěší lávky rachotila. Konstrukce se zachvívala mírným lomozem. Směr pouti mi úplně ideální nepřipadal, ale není už na té Výtoni moc atraktiv­ních možností. Podvědomí mě navíc táhlo na protější břeh, na němž jsem denně drobil do mlýna svůj čas. Za mostem jsem se dal po Strakonické směrem na Hlubočepy. Kamiony se valily jeden za druhým, kouř se dal kousat, vedro k chcípnutí. Po chodníku proti mně klopýtal muž ve svetru. Z čela, z nosu a z uší mu hrčela krev. Díval se pod nohy a šlapal. Minul mě. Než jsem se stačil ohlédnout, kvikly brzdy. Otevřely se dveře limuzíny, muž sám od sebe nastoupil. Zevnitř mu pomohly ruce v košili s krátkým rukávem. Pak odpálili. V autě seděli nejspíš ti samí, co mu to způsobili.
 
 Dokráčel jsem k lihovaru a zahnul po mostě na Císařskou louku. V polovině ostrova jsem usedl na lavičku. Po řece plynuly dunící hudebně-taneční lodě. Když první mizela proti proudu v zátočinách, další plynula s řevem na palubě kolem a následující se sem hrnula z centra. Nešlo si nevšimnout, že se na každé lodi vyskytuje jedna bzikavka, která je prostě nejlepší. Má nejlíp zmáknuté figury, strojově přesná šukavá gestíčka, nejrychleji se vrtí, nejotrleji reaguje na drobné chlívárny primitivně šachujících zájemců, zlatá Barunka. Přihlížel jsem, jak šífy plují. Jak hrnou břečku, jako by cpaly krk do roláku. Nedomrlé slunce v roští nad protějším kopcem otevřelo malinká mělká ústa a vyvrhlo píseň beze slov. Svět vydal vůni, kterou jsem kdysi znával líp než co jiného. Plnost a ostrost, ale beze jména. To už jsem věděl, že se něco děje. Třeba jen malá přechodná ranka, říkal jsem si. Odpojení, mrtvička, menší rokenrol. Bylo mi to fuk. Depeše, kterou jsem v ten okamžik přijímal, byla neskonale významnější.
@@ -150,3 +156,5 @@ Uvařil jsem si hrnec kafe. _NENÍ TO VE ZPŮSOBU, ALE V_ _INTENZITĚ,_ napsal 
 Pak ještě promluvily dva hlasy, mladý a starý.
 
 „Jsou to teda kapačky, co dostáváme,“ řekl mladší a starší odvětil: „To nejsou kapačky, to jsou zatim jenom kapky.“
+
+</section>

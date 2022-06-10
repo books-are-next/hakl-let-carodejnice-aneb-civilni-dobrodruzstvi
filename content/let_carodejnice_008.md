@@ -3,6 +3,8 @@ title: "3\\. V\_nitru Barakudy"
 contentType: prose
 ---
 
+<section>
+
 Často jsme do té Barakudy ani jít nechtěli. Doma jsme si však začali brzy překážet v rozletu, když si chtěl jeden povídat, druhý měl chuť si číst, a naopak. A tak jsme večer co večer končili v baru, kde to bylo rázem nějak příznivější. Na vratkých plastových židlích, s břichem vraženým do stolu, s hranou police pod lopatkou, s Evropou 2 v týle.
 
 „Jakej je teda tvuj oblíbenej žánr nebo režisér?“ udržovala Barun­ka debatu, kterou jsme si přinesli z domova.
@@ -68,6 +70,10 @@ Muž, co nebyl Vašek, hleděl před sebe. Po chvíli sáhl do kufříku, vytáh
 „Je navrčenej, lejzrově duchaplnej a celkově jako zasklenej, směje se vtipům, který zapomněl říct a tak.“
 
 Poté jsme šli do kanafasu. Předtím jsme si připomněli, že se musíme hlídat, aby nic nebylo. Pusa před usnutím že je na hranici. Možná čekala, že budu nějak inteligentně šturmovat. Že budu dýchat na sklo a v pravý čas ukazovat kopyta. Jenže mně to takhle vyhovovalo.
+
+</section>
+
+<section>
 
 Po probuzení jsem bruslil bos po linu za doprovodu Barunčiných kapel, Freeland, Koma+Bones. Pak jsem vklouzl do sandálů, za­bouchl, zamkl. Na chodbě se mi zazdálo, že je kukátko v protějších dveřích obsazené. Držela tam byt jakási personální analytička, Barunka jí říkala Banka, měla dvě záliby, šmírovat a ponižovat se. Půjčovala si peníze a ty vracela jen ztuha, zato problém ráda rozmazávala. Nechala si udělat kapucino, hodila nohy na stolek a rozvinula další zajíkavou legendu, ztráta karty, obstavení konta. Jinak prý nadprůměrně pohledná bruneta.
 
@@ -190,3 +196,5 @@ Do toho přiletěla šéfka: „Poslouchejte, před minutou zase už v New York
 „Já, já, já, já a já,“ řekli jsme.
 
 Víc toho nebylo. Nebo bylo, ale bylo to vesměs podobné.
+
+</section>

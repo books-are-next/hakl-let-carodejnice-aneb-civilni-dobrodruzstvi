@@ -3,6 +3,8 @@ title: 13\. Snad jenom ty boty
 contentType: prose
 ---
 
+<section>
+
 Sasové, kteří nám nadšéfovali, se možná v tom svém postavení malinko nudili. Měli sklon si pro nás vymýšlet nadstandardní akce, o nichž byli přesvědčeni, že nás potěší. Například jsem od nich obdržel po síti pokyn, abych laskavě zorganizoval podzimní párty pro celé vydavatelství. Jejich vize byla, že my z firmy budeme v bílém, abychom fungovali jako takoví andělé, pohybující se mezi běžnými hosty. Že k tomu bude hrát DJ a že tam musí být hodně V. I. P.
 
 Tady se Denisa, šéfka, projevila jako formát.
@@ -143,6 +145,12 @@ Odběhla vyřídit hovor. Nebylo mi nejlíp. Mrkl jsem na displej, jedna nová z
 
 „Co ti to řekne, samotín v Jizerkách takovej. Fotr ho koupil, když nás vopouštěl, jako fešácký vodstupný. Chtěl bejt gentleman, jenže to neustál a začal tam po nekonečnym pozičním vyjasňování jezdit taky. Každej měsíc se po telefonu dolaďuje rozpis návštěv – kdo nařeže a srovná dříví, kdo zpracuje angrešt a jabka.“
 
+</section>
+
+<section>
+
 Doma jsem sbalil ruksak a pustil si _Lisabonský příběh,_ který jsem si s jistým sebetrýznivým podtextem narychlo objednal v internetovém obchodě Brouk. Klasika, movie o skeptickém cizinci. O chlápkovi, jemuž je nevysvětlitelně přáno, každý se s ním z fleku baví. Nemusí toho moc předvádět, aby mu kdekoli, kam vejde, padly k nohám veškeré sympatie. Jeho hlavní kapitál spočívá v tom, že si v klíčovém okamžiku oholí strniště a nasadí kšilt, aby následně ukočíroval vyznání pozdní lásky na terase. Na závěr si dva zastydlí fachmani přihlouple hrají s kamerou a mikrofonem, šlak aby do vás! Na spravení chuti jsem šoupl staré dobré _Fargo,_ chyba byla, že jsem ho sjel i s bonusy. K husí kůži mi bohatě stačila modř zasněžené Minnesoty, stačilo mi havraní písmo stop, táhnoucí se za vystresovaným mamlasem, kráčejícím k zamrzlému autu. Bonusy jsou na nic. _Fargo změnilo můj život,_ připouští vyvalený herec a spíná prsty, které znají manikúru, do čehož se z nejasných důvodů pochechtává. Proč to mám vědět?
 
 Možná to vypadá, že mi není nic recht. Naopak, propadal jsem těm příběhům střemhlav. Například tajemný chčijící panáček _urinol_ z padesáté šesté minuty a šestačtyřicáté vteřiny Wendersovy story mě rozesmál, až jsem se poslintal. Pak jsem šel spát. Sen mě přemístil do vysokánské prázdné místnosti. Prázdné docela ne, u zdi stála řada kameninových van, v nichž se máčela, jak se mi zdálo, jakási těla. „Teď musíš bejt statečnej,“ pronesla mi do ucha moje matka, ta tam nebyla, jen její hlas, v mých snech běžný. To teda nebudu, řekl jsem si, a radši vypadnu. Jenže se zvenčí blížily několikery kroky. Slyšel jsem kašel a smích. „Podělat se strachy, to ještě nic nenííí,“ dýchl mi do eustachovy trubice Karel Höger. Trochu mě tou dobou obletovaly, přiznávám, všelijaké lehčí můry.
+
+</section>

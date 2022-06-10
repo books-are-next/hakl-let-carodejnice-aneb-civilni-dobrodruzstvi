@@ -3,6 +3,8 @@ title: "28\\. V\_hnízdě ptáka Noha"
 contentType: prose
 ---
 
+<section>
+
 Navršili jsme pár povšechných sentencí. Opatrně jsme přidávali lehká dřívka, aby se to vespod nehnulo. Co děláš? Zašívám kalhoty. Co je to za blbost? Sed jsem na hřebík. A co tvoje střecha? Hnije, co by dělala.
 
 „No a co teda?“ přešel k tématu, které jsem měl sám tak trochu na mysli. „Nezkusíme zas někdy botanizovat?“
@@ -187,6 +189,10 @@ Nad ránem stál zase nade mnou, tma se zrovínka lámala. Nad jeho kozlí silue
 
 „Jenže tebe možná jo,“ dal jsem mu vzhledem k aktuálním možnostem až marnotratně štramáckou odpověď.
 
+</section>
+
+<section>
+
 Dál vše proběhlo jako v té staré vyzkoušené pohádce. Když jsem vyváděl kolo pěkně potichu brankou na ulici, vyklonil se z okna. „To vypadá, že vode mě zase tak ňák nenápaditě zdrháš,“ prorokoval žalostně.
 
 „Jak bys chtěl taky zdrhat nápaditě, to mi řekni. Já zas někdy přijedu.“
@@ -238,3 +244,5 @@ Na chodníku na Kulaťáku se kymácela parta dvoumetrových sedmáků. Když š
 „Tak víš všecko.“
 
 Doma jsem se zadumal nad knihovnou naplněnou kinematografickými opusy. Knihy se až na dvě řady slovníků přestěhovaly do beden, nahradily je filmy. Co by se tak hodilo. _Zatojči,_ to bylo, co to chtělo. Broučci a mandelinky, cosi nevýslovného. Pachuť spáleného peří, dávné, přisprostle jednoduché vztahy. Dávný déšť, mokré zelené lístky. Znáte ty krasavice? Ham! Čo! Křup, a je po všem. Krev a liják.
+
+</section>

@@ -3,6 +3,8 @@ title: 12\. Neklid
 contentType: prose
 ---
 
+<section>
+
 Mnozí si do toho nenechali mluvit a řekli jen, co chtěli. Jiní na sebe pověděli první poslední, ale při autorizaci se jim to rozleželo a posílali na poslední chvíli traktáty plné maniakálně přezdobených všeobecných moralizmů. Takže se stať musela komplet rozebrat a znovu poskládat, zatímco grafici blili žaludeční šťávy, jelikož to mělo jít před pěti minutami do tisku. Nejčastěji však šlo o předem ztracené klání s chladně nastavenými roboty, používajícími řeč, která při prvním pokusu převést ji do psané podoby tála a rozpouštěla se v škaredě páchnoucí louži. Bývalo mi úzko z té jejich snahy být za každou cenu fajn, zatlouct ty tři vily, manželku v péči psychiatra. Mohlo mi to být fuk, i nejčtenější deníky v republice už vydávaly jen bezmocný lomoz a gramatické a stylistické a faktické chyby dávno splynuly v kalný inflační veletok.
 
 Po práci jsem se zpravidla utěšoval návštěvou Bontonlandu a listoval dévédéčky. U východů vtahovali pupek členové ostrahy a byli povinni odcházejícím sdělit: „Děkujeme, na shledanou,“ pakliže detektor nepískal. Chorche, říkal jsem si, ten by se takhle neponižoval. A už jsem strkal do mechaniky jako první _Mechanický pomeranč._ Po zhlédnutí nejvýše čtyř kusů jsem skočil do kanafasu, spolkl bobuli, zesnul, narodil se, vstal, oklepal se a opět uháněl. Stal se ze mě ideální zaměstnanec, nezastírající, že si potřebuje vydělat na denní porci předražené srandy. Dozajista šlo filmy odněkud stahovat, jenže nebyl čas.
@@ -67,6 +69,10 @@ Večer jsem si pustil _Old Boye_ potřetí.
 
 Druhá a třetí byly na obědě. Aspoň to tvrdily, když se vrátily.
 
+</section>
+
+<section>
+
 Barunčin dárek byl brzy spotřebován. Vzápětí jsem ale natrefil na pár nenápadných bárků, kde se nabízel tovar obdobné ráže. Bylo třeba jen vzbudit důvěru, dát řeč. Pokračoval jsem tedy v jízdě. Víceméně denně. Den co den. Lišilo se jen dávkování. Vypomáhat si takto zvenčí možná není z hlediska širšího horizontu optimální volba. Zato jde o velmi účinnou metodu, jak si uchovat rozvahu ve městě, kde má 60 procent obyvatel oči jako zahojené průstřely, 20 procent hledí jako zešílevší kousavá zvěř a zbytek sedí u počítače a nevystrkuje nos.
 
 Rozpravy s Barunkou naopak chytily volnější podzimní tempo. Zařekl jsem se, že se jí přestanu plést do života, že se budu chovat jako chlap. Manžel doma z Koreje, zkrátka tak. Nebyl jsem ale moc důsledný. Když psala, odepisoval jsem, když volala, hovor jsem přijímal.
@@ -127,6 +133,10 @@ Rozpravy s Barunkou naopak chytily volnější podzimní tempo. Zařekl jsem se
 
 „Asi proto, že se zatim nikomu nehodilo jako argument.“
 
+</section>
+
+<section>
+
 Dokázali jsme ovšem vést i jen velmi krátkou řeč.
 
 „Co ty?“ ptala se.
@@ -151,6 +161,10 @@ Dokázali jsme ovšem vést i jen velmi krátkou řeč.
 
 „Seš _pyščan_ s velkym pé,“ ujistila mě. „A napiš si to, ať to nezapomeneš.“
 
+</section>
+
+<section>
+
 Občas mě přes den v bdělém stavu přepadaly takové, řekněme, polovize. Takové naivní, a přesto autentické civilní bajky. Autentické ne, spíš naléhavé. Začalo to u tlačítka pro slepce na přechodu u Anděla. Běžel jsem ze srazu s externí přispěvatelkou a kousal do bagety, z níž odpadávaly proužky salátu na chodník, když se před mým vnitřním zrakem počal odvíjet příběh. Pojednával o člověku, který měl na práci uprostřed jakési dočasně zajištěné civilizace vystoupat každý den na středně vysokou, nenápadnou horu s hrncem na zádech, dolít olej do lampy, která hořela v kamenné mohyle na vrcholku, formálně se pomodlit a pak paťchat s bolavými koleny zpátky. Když umřel, ptal se ho úřední hlas na příjmu: _Čím jste se zabýval? Každý den jsem se vzbudil,_ odvětil muž, _vyšel jsem před dům, vzal nádobu s olejem a stoupal jsem na horu, tam jsem se postaral o oheň, vykonal obřad a šel jsem zpátky. Jak jste se u toho cítil?_ tázal se hlas. _Bylo mi vedro a smutno, nebylo nic vidět a měl jsem žízeň,_ řekl muž. _Na co jste při tom myslel?_ chtěl vědět hlas.
 
 Musel jsem zastavit a počkat, jak to dopadne. Chlapík, co dojídá bagetu a na někoho čeká, normální.
@@ -162,3 +176,5 @@ _Bafit se fy Češi umité,_ říkal jindy bodrý gestapácký komisař zfackova
 Nebylo to kdovíco, ale mě to plně zaměstnávalo. Kromě toho se občas dostavoval určitý nepokoj. Zdávalo se mi, že cokoli dělám či myslím, všechno má podobu rozmazaného amatérského klipu, ohodnoceného půlkou hvězdičky. Aby se nemohlo říct, že jsem proti tomu nehnul prstem, sehnal jsem si psychiatra a poprosil ho, zda by s tím něco neudělal. Požádal mě, abych mu během hodiny, kterou na mě měl, vyprávěl, jak jsem do dnešního dne žil, choroby a trauma­ta přednostně. Splnil jsem jeho přání, Chorcheho jsem vynechal. Seděl a nehýbal se, to už byl ve svém limitu, mých šedesát minut vypršelo. Tvář mu visela k zemi. Snažil jsem se vysledovat, jestli dýchá. Zdálo se mi, že ano, pak zase, že vůbec. Načež mi se zasněným výrazem sdělil, že jsem přetažený a že mi píše remeron. Vyslovil to divně mazlivě, chlap, okamžitě mi bylo jasné, co drží v lati jeho. Pumpnul jsem ho o extra předpis na stilnox, druhý recept jsem vyhodil. Později jsem se o něm dozvěděl, že dělával prominentního sexuologa. Postupně mravně rozemnul a zneužil devět pacientek. Prvních osm bylo v pořádku, ty skončily v blázinci. Poslední byla dcera jistého poslance, ta holt neuměla pomlčet. Tak se teď musel babrat v neurózách a poslouchat o tom, jak se nějaké pošahané inženýrce z Podolí zjevují po nocích skřítci.
 
 Pak byla jedna léčitelka, ta když viděla, že nejsem případ pro ni, že jsem jen takový rychlejší vykuk, uvařila čaj, a zatímco v čekárně houkaly báby, povídala mi o sobě. Kromě běžné agendy měla svého koníčka – vždycky deset patnáct lidí, kteří už doopravdy končí. Za nimi jezdila ke Kladnu, do Pardubic, do vsí, do samot. „Je mám jediný ráda,“ řekla, „protože voni už nic nechtěj, a tim pádem maj čas vnímat.“ Jenže měla problém. Když se s ní loučili a vydávali se za čáru, pocítila vždy tak mocnou setrvačnost, že musela volky nevolky kousek s nimi. S kamarádkou lékařkou měla předem domluveno, v kolik a kam má doktorka plus mínus přijet s přenosným nádobíčkem. Zatím ji stihla pokaždé nahodit. „Já tam byla, pane, už tolikrát,“ vykládala ruměná, zdravím kypící, usměvavá žena, „a neumim o tom říct víc, než že mě tady potom brněj tři neděle klouby. A teď se s váma musím rozloučit, ty tam zase vyváděj.“ Je fakt, že se nějaká divně tichá paní už dobrou půlhodinu opírala do dveří bílými kotníky drobných učitelských pěstí, až se překližka vydouvala.
+
+</section>

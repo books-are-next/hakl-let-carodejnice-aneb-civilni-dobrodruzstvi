@@ -3,6 +3,8 @@ title: "17\\. Slunce a\_vzduch"
 contentType: prose
 ---
 
+<section>
+
 V miniaturním supermarketu jsem pořídil pláštěnku, salám, veku, čalamádu, čokoládu, čaj. A trochu jsem se potloukal. Občas jsem se svezl stopem. Klouzal jsem třeba po bahnem zapráskané plechové korbě náklaďáčku, ženoucího se plnou rychlosti po kamenité cestě nocí a ledovým deštěm. Nic nevadilo, dopoledne se všecko usušilo, byl jsem spokojen. Bavil jsem se skvěle. Trpěl jsem, jak už jsem řekl, vypočítávací mánií, a tady jsem pro ni nalezl ideální prostor. Vyjmenovával jsem kozáky z Tarase Bulby, vzpomněl jsem si na třicet devět jmen. Ta jsem si potom celý den opakoval, dokud se mi dokonale nezprotivila. Figueira, Sagres, Carrapateira, Torre de Aspa, motal jsem se po útesech a celé dny pořádně nikoho nepotkával. Na nocleh jsem vždy našel dům, kde jsem za hrst euráků a za slib, že ráno vyložím ze starého pikapu tvárnice, přenocoval. Na rozloučenou jsem jim pokaždé sdělil, že žijí v neuvěřitelném kraji. Smáli se a mávali mi, ať táhnu do paďous. Z čeho mohli být živi, z ryb a z turistů. Pochodoval jsem po planinách, jejichž povrch připomínal hřbet pásovce, nacházel naprosto rudé, sírově žluté, závratně rozervané skalní brány a dómy. Celé dny jsem se brodil po kolena v hustých, urputně voňavých keřích.
 
 Až jsem jednoho večera v jednom podkroví přišel na to, že už u sebe nemám ani findík, a že tudíž ráno nezaplatím. V přízemí pískala nosem divoce kudrnatá stařena a zavalití vnukové se zarostlými hubami. Počkal jsem hodinku, pak jsem sešel, nedýchaje, po schodech. Zamčeno, klíč nikde. Zkusil jsem okno, zalígrováno neznámým systémem. Ze tmy na mě skočilo koťátko, pomrouskal jsem ho za krkem. V chodbě míchačka, za ní dvířka, za nimi cosi jako světlík. Nabídla se mi řada vzhůru vedoucích kramlí. Vsoukal jsem se do šachty, navlékl batoh a počal po nich stoupat. Ve čtverci nade mnou se vařily hvězdy. Pak jsem stál na rovné střeše. Nad oceánem zlatofialový pás. Vpravo šikmá stříška, pod ní haluze. Hodil jsem do nich bágl, položil jsem se na střešní plech, sklouzl, dopadl. Pod nohama mi ruplo sklo. Prásk a křáp, naskládané tabule. Vyprostil jsem se, sebral ranec a zastavil jsem se až za třetím kopcem. Vydýchal jsem se, vzduch byl jako trinitrotoluen. Škrábance na holeních jsem ovázal pruhy natrhanými z rezervního trika. Gatě však byly dole na knoty. Byl jsem zpátky na útesu. Nízko nad obzorem se třepetal Merkur, nad deskou mraků zářil Mars, nahoře světélkoval Jupiter. Navlékl jsem si oba svetry, zapnul bundu. Proč takhle složitě zdrhám, napadlo mě. Co mi mohli, nejvýš nafackovat.
@@ -62,6 +64,10 @@ Moře zaburácelo.
 „Konec.“
 
 Sfingo moje! Děkuju ti, osmiruká, střevíce políbím! Záchrana! Co si dát teď, když už o nic nejde, malýho čouda? _Konec,_ zopakoval jsem po Barunce a mrskl cikánovým dárkem obloukem do vln. Totiž, bezmála. Ve skutečnosti jsem ho položil na plochý balvan u cesty, pokud to byla cesta. Protože, jak praví Kniha proměn, pevnosti je možno dosáhnout až poté, co se zbavíme lačnosti. Pevnost je jednota nitra a vnějšího projevu bez známek úsilí, ahaha. Ále co! Prcat ježka, křičel jsem do větru, mával rukama jako racek a šel jsem a šel. Pode mnou mokré keře, nade mnou inkoust, vpravo oceán plný zcela nepochopitelných tvorů.
+
+</section>
+
+<section>
 
 Ve městě, do něhož jsem dospěl, to rovněž nebyla žádná sláva. Umýt hubu, najít banku, tvářili se všelijak. Ptaní a dohadování, než mi vysázeli pár potištěných papírů. Najíst se, napít, vyslat zprávu. _Eště jednou díky,_ odpověď žádná. Nové džíny koupit, staré vyhodit, hotel najít, přespat, ráno jít na nádraží. Sednout do vlaku na sever.
 
@@ -134,3 +140,5 @@ Děvče mi cosi vykládalo, mnohomluvně mi cosi sdělovalo. Asi abych se na to 
 „Muzika mého mládí,“ řekl jsem.
 
 „To je ale moc špatná muzika,“ odvětila.
+
+</section>
