@@ -1,0 +1,738 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Let čarodějnice aneb Civilní dobrodružství",
+  "author": "Emil Hakl",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi-b597673",
+  "revision": "b597673",
+  "readingOrder": [
+    "promo.html",
+    "let_carodejnice_005.html",
+    "let_carodejnice_006.html",
+    "let_carodejnice_007.html",
+    "let_carodejnice_008.html",
+    "let_carodejnice_009.html",
+    "let_carodejnice_010.html",
+    "let_carodejnice_011.html",
+    "let_carodejnice_012.html",
+    "let_carodejnice_013.html",
+    "let_carodejnice_014.html",
+    "let_carodejnice_015.html",
+    "let_carodejnice_016.html",
+    "let_carodejnice_017.html",
+    "let_carodejnice_018.html",
+    "let_carodejnice_019.html",
+    "let_carodejnice_020.html",
+    "let_carodejnice_021.html",
+    "let_carodejnice_022.html",
+    "let_carodejnice_023.html",
+    "let_carodejnice_024.html",
+    "let_carodejnice_025.html",
+    "let_carodejnice_026.html",
+    "let_carodejnice_027.html",
+    "let_carodejnice_028.html",
+    "let_carodejnice_029.html",
+    "let_carodejnice_030.html",
+    "let_carodejnice_031.html",
+    "let_carodejnice_032.html",
+    "let_carodejnice_033.html",
+    "let_carodejnice_034.html",
+    "let_carodejnice_035.html",
+    "let_carodejnice_036.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 24 2022 22:15:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658700928362
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "let_carodejnice_005.html",
+      "toc": []
+    },
+    {
+      "title": "Let čarodějnice aneb Civilní dobrodružství",
+      "file": "let_carodejnice_005.html",
+      "words": 34,
+      "chars": 175,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "let_carodejnice_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Mnohokrát slyšené",
+      "file": "let_carodejnice_006.html",
+      "words": 2900,
+      "chars": 17293,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 2,
+      "prev": "let_carodejnice_005.html",
+      "next": "let_carodejnice_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Mnohokrát slyšené",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Dejchej!",
+      "file": "let_carodejnice_007.html",
+      "words": 2298,
+      "chars": 13978,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 3,
+      "prev": "let_carodejnice_006.html",
+      "next": "let_carodejnice_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Dejchej!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. V nitru Barakudy",
+      "file": "let_carodejnice_008.html",
+      "words": 2262,
+      "chars": 13500,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 4,
+      "prev": "let_carodejnice_007.html",
+      "next": "let_carodejnice_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. V nitru Barakudy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Kašel a dým",
+      "file": "let_carodejnice_009.html",
+      "words": 2679,
+      "chars": 16291,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 5,
+      "prev": "let_carodejnice_008.html",
+      "next": "let_carodejnice_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Kašel a dým",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Kouř a smích",
+      "file": "let_carodejnice_010.html",
+      "words": 1911,
+      "chars": 11545,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 6,
+      "prev": "let_carodejnice_009.html",
+      "next": "let_carodejnice_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Kouř a smích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. Záhada Blair Witch",
+      "file": "let_carodejnice_011.html",
+      "words": 1233,
+      "chars": 7667,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 7,
+      "prev": "let_carodejnice_010.html",
+      "next": "let_carodejnice_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. Záhada Blair Witch",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Co jsem viděl a slyšel ve sklepě",
+      "file": "let_carodejnice_012.html",
+      "words": 3956,
+      "chars": 23706,
+      "ideas": 169,
+      "role": "chapter",
+      "order": 8,
+      "prev": "let_carodejnice_011.html",
+      "next": "let_carodejnice_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Co jsem viděl a slyšel ve sklepě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. Kouřící hora",
+      "file": "let_carodejnice_013.html",
+      "words": 1530,
+      "chars": 9107,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 9,
+      "prev": "let_carodejnice_012.html",
+      "next": "let_carodejnice_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. Kouřící hora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Mám tě, ty nacistickej špióne!",
+      "file": "let_carodejnice_014.html",
+      "words": 1497,
+      "chars": 9031,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 10,
+      "prev": "let_carodejnice_013.html",
+      "next": "let_carodejnice_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. Mám tě, ty nacistickej špióne!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. Kafe a klid",
+      "file": "let_carodejnice_015.html",
+      "words": 1144,
+      "chars": 7079,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 11,
+      "prev": "let_carodejnice_014.html",
+      "next": "let_carodejnice_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. Kafe a klid",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. Kdo eště?",
+      "file": "let_carodejnice_016.html",
+      "words": 3418,
+      "chars": 20318,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 12,
+      "prev": "let_carodejnice_015.html",
+      "next": "let_carodejnice_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. Kdo eště?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. Neklid",
+      "file": "let_carodejnice_017.html",
+      "words": 2021,
+      "chars": 12119,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 13,
+      "prev": "let_carodejnice_016.html",
+      "next": "let_carodejnice_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. Neklid",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. Snad jenom ty boty",
+      "file": "let_carodejnice_018.html",
+      "words": 2001,
+      "chars": 11770,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 14,
+      "prev": "let_carodejnice_017.html",
+      "next": "let_carodejnice_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. Snad jenom ty boty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. Vylisováno jest",
+      "file": "let_carodejnice_019.html",
+      "words": 2449,
+      "chars": 14748,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 15,
+      "prev": "let_carodejnice_018.html",
+      "next": "let_carodejnice_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. Vylisováno jest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. Modelo",
+      "file": "let_carodejnice_020.html",
+      "words": 1241,
+      "chars": 7782,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 16,
+      "prev": "let_carodejnice_019.html",
+      "next": "let_carodejnice_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. Modelo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. Bon voajáž",
+      "file": "let_carodejnice_021.html",
+      "words": 1476,
+      "chars": 9075,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 17,
+      "prev": "let_carodejnice_020.html",
+      "next": "let_carodejnice_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. Bon voajáž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. Slunce a vzduch",
+      "file": "let_carodejnice_022.html",
+      "words": 2795,
+      "chars": 17229,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 18,
+      "prev": "let_carodejnice_021.html",
+      "next": "let_carodejnice_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. Slunce a vzduch",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. To právě musíš",
+      "file": "let_carodejnice_023.html",
+      "words": 1529,
+      "chars": 9281,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 19,
+      "prev": "let_carodejnice_022.html",
+      "next": "let_carodejnice_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. To právě musíš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. Onačejší než v ráji",
+      "file": "let_carodejnice_024.html",
+      "words": 2128,
+      "chars": 13002,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 20,
+      "prev": "let_carodejnice_023.html",
+      "next": "let_carodejnice_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. Onačejší než v ráji",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. Ve třetím patře",
+      "file": "let_carodejnice_025.html",
+      "words": 2875,
+      "chars": 17377,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 21,
+      "prev": "let_carodejnice_024.html",
+      "next": "let_carodejnice_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. Ve třetím patře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. Královna",
+      "file": "let_carodejnice_026.html",
+      "words": 1722,
+      "chars": 10339,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 22,
+      "prev": "let_carodejnice_025.html",
+      "next": "let_carodejnice_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. Královna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. Vitulomonachus, politováníhodná zrůda ze Salamanky",
+      "file": "let_carodejnice_027.html",
+      "words": 3113,
+      "chars": 18947,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 23,
+      "prev": "let_carodejnice_026.html",
+      "next": "let_carodejnice_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. Vitulomonachus, politováníhodná zrůda ze Salamanky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. Jehly na vodách",
+      "file": "let_carodejnice_028.html",
+      "words": 1724,
+      "chars": 10468,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 24,
+      "prev": "let_carodejnice_027.html",
+      "next": "let_carodejnice_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. Jehly na vodách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24. Tvrzení proti tvrzení",
+      "file": "let_carodejnice_029.html",
+      "words": 1879,
+      "chars": 11112,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 25,
+      "prev": "let_carodejnice_028.html",
+      "next": "let_carodejnice_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24. Tvrzení proti tvrzení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25. Hysteron proteron",
+      "file": "let_carodejnice_030.html",
+      "words": 2288,
+      "chars": 13848,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 26,
+      "prev": "let_carodejnice_029.html",
+      "next": "let_carodejnice_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25. Hysteron proteron",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "26. Náměstí Míru",
+      "file": "let_carodejnice_031.html",
+      "words": 1412,
+      "chars": 8465,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 27,
+      "prev": "let_carodejnice_030.html",
+      "next": "let_carodejnice_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "26. Náměstí Míru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27. Postupné zpomalování",
+      "file": "let_carodejnice_032.html",
+      "words": 2098,
+      "chars": 12536,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 28,
+      "prev": "let_carodejnice_031.html",
+      "next": "let_carodejnice_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27. Postupné zpomalování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28. V hnízdě ptáka Noha",
+      "file": "let_carodejnice_033.html",
+      "words": 3324,
+      "chars": 20116,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 29,
+      "prev": "let_carodejnice_032.html",
+      "next": "let_carodejnice_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28. V hnízdě ptáka Noha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29. Cesta do středu",
+      "file": "let_carodejnice_034.html",
+      "words": 1990,
+      "chars": 11931,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 30,
+      "prev": "let_carodejnice_033.html",
+      "next": "let_carodejnice_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29. Cesta do středu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "30. Postupné zrychlování",
+      "file": "let_carodejnice_035.html",
+      "words": 1265,
+      "chars": 7696,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 31,
+      "prev": "let_carodejnice_034.html",
+      "next": "let_carodejnice_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "30. Postupné zrychlování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citované prameny a inspirační zdroje",
+      "file": "let_carodejnice_036.html",
+      "words": 79,
+      "chars": 601,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 32,
+      "prev": "let_carodejnice_035.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citované prameny a inspirační zdroje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 154,
+      "chars": 1014,
+      "ideas": 19,
+      "role": "about",
+      "order": null,
+      "prev": "let_carodejnice_036.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 64433,
+      "chars": 389200,
+      "ideas": 2135
+    },
+    "chapters": {
+      "words": 64271,
+      "chars": 388132,
+      "ideas": 2113
+    }
+  }
+}
