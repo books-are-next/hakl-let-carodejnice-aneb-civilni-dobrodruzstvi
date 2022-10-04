@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi-d5efbdb",
-  "revision": "d5efbdb",
+  "identifier": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi-44b121b",
+  "revision": "44b121b",
   "readingOrder": [
     "promo.html",
     "let_carodejnice_005.html",
@@ -46,8 +46,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:54:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639648487
+    "date": "Tue Oct 04 2022 16:41:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901678700
   },
   "documents": [
     {
@@ -705,9 +705,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 154,
+      "words": 151,
       "chars": 1014,
-      "ideas": 19,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "let_carodejnice_036.html",
@@ -725,9 +725,9 @@
   ],
   "totals": {
     "all": {
-      "words": 64433,
+      "words": 64430,
       "chars": 389200,
-      "ideas": 2135
+      "ideas": 2132
     },
     "chapters": {
       "words": 64271,
