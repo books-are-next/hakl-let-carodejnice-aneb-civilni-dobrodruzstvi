@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi-a30de09",
-  "revision": "a30de09",
+  "identifier": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi-249a595",
+  "revision": "249a595",
   "readingOrder": [
     "promo.html",
     "let_carodejnice_005.html",
@@ -46,8 +46,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:52:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923970965
+    "date": "Fri Oct 07 2022 13:55:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150952627
   },
   "documents": [
     {
