@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "let_carodejnice_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "1. Mnohokrát slyšené"
+            "title": "1. Mnohokrát slyšené",
+            "children": []
           },
           {
             "filename": "let_carodejnice_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "2. Dejchej!"
+            "title": "2. Dejchej!",
+            "children": []
           },
           {
             "filename": "let_carodejnice_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "3. V nitru Barakudy"
+            "title": "3. V nitru Barakudy",
+            "children": []
           },
           {
             "filename": "let_carodejnice_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "4. Kašel a dým"
+            "title": "4. Kašel a dým",
+            "children": []
           },
           {
             "filename": "let_carodejnice_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "5. Kouř a smích"
+            "title": "5. Kouř a smích",
+            "children": []
           },
           {
             "filename": "let_carodejnice_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "6. Záhada Blair Witch"
+            "title": "6. Záhada Blair Witch",
+            "children": []
           },
           {
             "filename": "let_carodejnice_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "7. Co jsem viděl a slyšel ve sklepě"
+            "title": "7. Co jsem viděl a slyšel ve sklepě",
+            "children": []
           },
           {
             "filename": "let_carodejnice_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "8. Kouřící hora"
+            "title": "8. Kouřící hora",
+            "children": []
           },
           {
             "filename": "let_carodejnice_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "9. Mám tě, ty nacistickej špióne!"
+            "title": "9. Mám tě, ty nacistickej špióne!",
+            "children": []
           },
           {
             "filename": "let_carodejnice_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "10. Kafe a klid"
+            "title": "10. Kafe a klid",
+            "children": []
           },
           {
             "filename": "let_carodejnice_016.md",
@@ -239,8 +240,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "11. Kdo eště?"
+            "title": "11. Kdo eště?",
+            "children": []
           },
           {
             "filename": "let_carodejnice_017.md",
@@ -252,8 +253,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "12. Neklid"
+            "title": "12. Neklid",
+            "children": []
           },
           {
             "filename": "let_carodejnice_018.md",
@@ -265,8 +266,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "13. Snad jenom ty boty"
+            "title": "13. Snad jenom ty boty",
+            "children": []
           },
           {
             "filename": "let_carodejnice_019.md",
@@ -278,8 +279,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "14. Vylisováno jest"
+            "title": "14. Vylisováno jest",
+            "children": []
           },
           {
             "filename": "let_carodejnice_020.md",
@@ -291,8 +292,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "15. Modelo"
+            "title": "15. Modelo",
+            "children": []
           },
           {
             "filename": "let_carodejnice_021.md",
@@ -304,8 +305,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "16. Bon voajáž"
+            "title": "16. Bon voajáž",
+            "children": []
           },
           {
             "filename": "let_carodejnice_022.md",
@@ -317,8 +318,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "17. Slunce a vzduch"
+            "title": "17. Slunce a vzduch",
+            "children": []
           },
           {
             "filename": "let_carodejnice_023.md",
@@ -330,8 +331,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "18. To právě musíš"
+            "title": "18. To právě musíš",
+            "children": []
           },
           {
             "filename": "let_carodejnice_024.md",
@@ -343,8 +344,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "19. Onačejší než v ráji"
+            "title": "19. Onačejší než v ráji",
+            "children": []
           },
           {
             "filename": "let_carodejnice_025.md",
@@ -356,8 +357,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "20. Ve třetím patře"
+            "title": "20. Ve třetím patře",
+            "children": []
           },
           {
             "filename": "let_carodejnice_026.md",
@@ -369,8 +370,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "21. Královna"
+            "title": "21. Královna",
+            "children": []
           },
           {
             "filename": "let_carodejnice_027.md",
@@ -382,8 +383,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "22. Vitulomonachus, politováníhodná zrůda ze Salamanky"
+            "title": "22. Vitulomonachus, politováníhodná zrůda ze Salamanky",
+            "children": []
           },
           {
             "filename": "let_carodejnice_028.md",
@@ -395,8 +396,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "23. Jehly na vodách"
+            "title": "23. Jehly na vodách",
+            "children": []
           },
           {
             "filename": "let_carodejnice_029.md",
@@ -408,8 +409,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "24. Tvrzení proti tvrzení"
+            "title": "24. Tvrzení proti tvrzení",
+            "children": []
           },
           {
             "filename": "let_carodejnice_030.md",
@@ -421,8 +422,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "25. Hysteron proteron"
+            "title": "25. Hysteron proteron",
+            "children": []
           },
           {
             "filename": "let_carodejnice_031.md",
@@ -434,8 +435,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "26. Náměstí Míru"
+            "title": "26. Náměstí Míru",
+            "children": []
           },
           {
             "filename": "let_carodejnice_032.md",
@@ -447,8 +448,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "27. Postupné zpomalování"
+            "title": "27. Postupné zpomalování",
+            "children": []
           },
           {
             "filename": "let_carodejnice_033.md",
@@ -460,8 +461,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "28. V hnízdě ptáka Noha"
+            "title": "28. V hnízdě ptáka Noha",
+            "children": []
           },
           {
             "filename": "let_carodejnice_034.md",
@@ -473,8 +474,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "29. Cesta do středu"
+            "title": "29. Cesta do středu",
+            "children": []
           },
           {
             "filename": "let_carodejnice_035.md",
@@ -486,8 +487,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "30. Postupné zrychlování"
+            "title": "30. Postupné zrychlování",
+            "children": []
           },
           {
             "filename": "let_carodejnice_036.md",
@@ -499,8 +500,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Citované prameny a inspirační zdroje"
+            "title": "Citované prameny a inspirační zdroje",
+            "children": []
           },
           {
             "filename": "let_carodejnice_037.md",
@@ -817,6 +818,6 @@
       "user": "books-are-next",
       "repo": "hakl-let-carodejnice-aneb-civilni-dobrodruzstvi"
     },
-    "generatedAt": 1658413346933
+    "generatedAt": 1666350890680
   }
 }
